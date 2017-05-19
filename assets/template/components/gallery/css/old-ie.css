@@ -1,0 +1,145 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27-Apr-2017, 16:11:14
+    Author     : User
+*/
+
+header {
+  background: #fff !important;
+}
+
+.main-nav-list {
+  left: 0 !important;
+}
+
+.leftside .b-main-nav {
+  margin-top: -20px;
+}
+.leftside .main-nav-col {
+  margin-top: 20px !important;
+}
+
+.b-cart-container{
+	border:1px solid #d9d8d8	;
+}
+
+.banner-nav a {
+  background: white url('../images/sprite.png') 0 -1543px no-repeat;
+}
+.banner-nav a.active, .banner-nav a:hover {
+  background: white url('../images/sprite.png') 0 -1503px no-repeat;
+}
+
+#fancybox-thumbs ul li.active,
+.gallery-item-img .ie7_anon,
+.news-item-img .ie7_anon,
+.video-item:before {
+  display: none !important;
+}
+
+
+.service-list li{
+	float:left;
+	width:50%;	
+}
+
+.ie7 .main,
+.ie7 .inner {
+  zoom: 1;
+}
+.ie7 .main-nav-col {
+  margin-left: 3px;
+}
+.ie7 #fancybox-thumbs ul li,
+.ie7 .gallery-item,
+.ie7 .b-pager li,
+.ie7 .partner-item,
+.ie7 .catalog-item,
+.ie7 .breadcrumbs-item,
+.ie7 .b-footer-nav .nav-item,
+.ie7 .b-footer-nav .nav-item + .nav-item:before,
+.ie7 .content,
+.ie7 .rightside,
+.ie7 .main-nav-col,
+.ie7 .b-header-nav .nav-item {
+  display: inline;
+}
+.ie7 .b-main-recommends {
+  overflow: hidden;
+  display: block;
+}
+.ie7 .main-recommends-col {
+  overflow: hidden;
+  float: left;
+  width: 28%;
+}
+.ie7 .b-header-nav ul {
+  white-space: nowrap;
+}
+.ie7 .product-info dd,
+.ie7 .product-info dt {
+  float: none;
+  display: inline;
+}
+.ie7 .product-info dt:before {
+  content: "";
+  display: block;
+  height: 1px;
+  font-size: 0;
+}
+.ie7 .leftside .b-main-recommends {
+  margin-top: -20px;
+}
+.ie7 .leftside .main-recommends-col {
+  width: 100%;
+  float: none;
+}
+.ie7 .b-counter-list li {
+  list-style: decimal;
+  list-style-position: inside;
+  padding-left: 0;
+}
+.ie7 .b-counter-list li:before {
+  visibility: hidden;
+  display: inline;
+  margin: 0 2px 0 0;
+  font-size: 0;
+  position: static;
+}
+
+@media screen and (max-width: 1400px) {
+  .ie7 .main-nav-title span .ie7_anon {
+    top: 7px !important;
+    right: 10px !important;
+  }
+  .ie7 .main-recommends-col {
+    width: 25%;
+  }
+  .ie7 .leftside .main-recommends-col {
+    width: 248px;
+  }
+  .ie7 .catalog-item {
+    display: block;
+  }
+}
+@media screen and (max-width: 1040px) {
+  .ie7 .main-nav-col {
+    width: 326px;
+  }
+  .ie7 .main-recommends-col {
+    display: block;
+    float: none;
+    width: 100%;
+  }
+  .ie7 .leftside .b-main-recommends {
+    margin-top: 20px;
+  }
+  .ie7 .leftside .main-recommends-col {
+    float: none;
+    width: 100%;
+  }
+}

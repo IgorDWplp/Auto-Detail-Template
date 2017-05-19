@@ -1,0 +1,54 @@
+
+@font-face {
+  font-family: "Lato-Light";
+  src: url('../fonts/Lato/LatoLatin-Light.eot');
+  src: url("../fonts/Lato/LatoLatin-Light.ttf") format("opentype"), /* Open Type Font */
+  url("../fonts/Lato/LatoLatin-Light.woff") format("woff"), /* Modern Browsers */
+  url("../fonts/Lato/LatoLatin-Light.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+  font-family: "Lato-Regular";
+  src: url('../fonts/Lato/LatoLatin-Regular.eot');
+  src: url("../fonts/Lato/LatoLatin-Regular.ttf") format("opentype"), /* Open Type Font */
+  url("../fonts/Lato/LatoLatin-Regular.woff") format("woff"), /* Modern Browsers */
+  url("../fonts/Lato/LatoLatin-Regular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
+
+@font-face {
+  font-family: "Lato-Black";
+  src: url('../fonts/Lato/LatoLatin-Black.eot');
+  src: url("../fonts/Lato/LatoLatin-Black.ttf") format("opentype"), /* Open Type Font */
+  url("../fonts/Lato/LatoLatin-Black.woff") format("woff"), /* Modern Browsers */
+  url("../fonts/Lato/LatoLatin-Black.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+-------------------------------
+
+menu  (nav-item)
+pf_agora_sans_pro
+
+
+
+main sghit 
+
+
+
+
+
+---.main-nav-item a:hover {
+
+efekti menui

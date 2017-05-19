@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24-Apr-2017, 11:32:05
+    Author     : User
+*/
+
+.gal-item {
+    float: left;
+    padding: 3px;
+    border: 1px solid #d4d4d4;
+    margin: 4px;
+    opacity: 0.8;
+}
+
+.gal-item:hover {
+    opacity: 1.0;
+}

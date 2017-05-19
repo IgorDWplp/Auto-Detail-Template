@@ -1,0 +1,157 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24-Apr-2017, 11:05:44
+    Author     : User
+*/
+
+
+/*=Contacts
+----------------------------------------------------*/
+.contact-form .thankyou {
+	/*display: none;*/
+	font-size: 16px;
+	line-height: 26px;
+	text-align: center;
+         color:#ffffff;
+         background-color: #EE6133;
+  
+}
+
+.b-catalog .service-list {
+	margin-bottom: 13px;
+}
+
+.er-form {
+	background: #FFA2A2;
+}
+
+#callback-load {
+	display: none;
+}
+
+.open_order_form {
+	margin-top: 30px;
+}
+
+.open_order_form .thankyou {
+	display: none;
+}
+
+/* march 17 update */
+.course-info{
+	padding:15px 0 25px;
+	margin-left:10%;
+}
+
+.course-info dl{
+	font-weight: bold;
+	overflow:hidden;
+	clear: both;
+}
+
+.course-info dt {
+    clear: both;
+    float: left;
+    margin: 0 7px 0 0;
+    color: #8d8e92;
+	line-height: 26px;
+}
+.course-info dd {
+    float: left;
+    line-height: 26px;
+}
+
+.b-courcelist,
+.b-courcelist li{
+	list-style:none;
+	font-size: 0;
+	
+}
+
+.b-courcelist{
+	margin:30px 0 30px -6px;
+}
+
+	.b-courcelist li{
+		position:relative;
+		display: inline-block;
+		margin:0 0 6px 6px;
+		 width:517px;
+		 height:120px;
+		 line-height:115px;
+		 overflow:hidden;
+		 vertical-align: middle;
+		 background-size:cover;
+	}
+	
+		.b-courcelist li:before{
+			content:' ';
+			position:absolute;
+			z-index:2;
+			left:0;
+			top:0;
+			width:100%;
+			height:100%;	
+			background:rgb(255,255,255);
+			background: transparent\9;
+			background:rgba(255,255,255,0.75);
+			filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#bfffffff,endColorstr=#bfffffff);
+			zoom: 1;
+			-webkit-transition: all 0.5s ease;
+			-moz-transition: all 0.5s ease;
+			-o-transition: all 0.5s ease;
+			-ms-transition: all 0.5s ease;
+			transition: all 0.5s ease;
+		}
+		
+		.b-courcelist li:hover:before{
+			background:rgb(84,11,137);
+			background: transparent\9;
+			background:rgba(84,11,137,0.75);
+			filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#bf540b89,endColorstr=#bf540b89);
+		}
+		
+		.b-courcelist li:nth-child(n):before {
+			filter: none;
+		}
+	
+		.b-courcelist li a{
+			position:relative;
+			z-index:3;
+			display: inline-block;
+			width:100%;
+			height:100%;
+  			vertical-align: middle;
+			font-family: 'pf_agora_sans_pro', Verdana, Arial;
+			font-size:24px;
+			line-height: 115px;
+			color:#000;
+			text-decoration:none;
+		}
+		
+			.b-courcelist li a span{
+				display: inline-block;
+				vertical-align: middle;
+				padding:0 45px;
+				line-height: normal;
+			}
+		
+			.b-courcelist li:hover a{
+				color:#FFF;	
+			}
+
+@media screen and (max-width: 1400px) {
+	.b-courcelist li{
+		width:338px;
+	}
+}
+
+@media screen and (max-width: 1040px) {
+	.b-courcelist li{
+		width:100%
+	}
+}

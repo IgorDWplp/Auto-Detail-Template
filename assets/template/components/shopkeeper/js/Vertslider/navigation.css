@@ -1,0 +1,53 @@
+nav {
+	position: absolute;
+	z-index: 1000;
+	width: 100%;
+	height: 100px;
+	top: 50%;
+    vertical-align: middle;
+}
+
+.vertslider-left_nav, .vertslider-right_nav {
+	height: 100px;
+	width: 100px;
+}
+
+.vertslider-left_nav {
+	float: left;
+	background-image:url("images/left_arrow.png");
+	background-size: contain;
+}
+
+.vertslider-right_nav {
+	float: right;
+	background-image:url("images/right_arrow.png");
+	background-size: contain;
+}
+
+.vertslider-pager {
+	position: absolute;
+	z-index: 1000;
+	width: 100%;
+	height: 50px;
+	bottom: 0px;
+}
+
+.vertslider-pager > .vertslider-pager-inner-wrapper {
+	width: 150px;
+	position: relative;
+	margin: 0 auto;
+}
+
+.vertslider-pager > .vertslider-pager-inner-wrapper > a {
+	margin-left: 10px;
+	margin-right: 10px;
+	color: black;
+}
+
+.vertslider-pager > .vertslider-pager-inner-wrapper > a.vertslider-pager-link.active {
+	color: red;
+}
+
+.vertslider-page-wrapper.first-page.active ~ div.vertslider-left_nav {
+    display: none;
+}
