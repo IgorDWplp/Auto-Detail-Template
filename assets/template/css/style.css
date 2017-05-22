@@ -1132,7 +1132,7 @@ a:hover {
   border: 1px solid #87888b;
   outline: 0;
   background: #fff;
-  font-size: 18px;
+  font-size: 15px;
 }
 
 .form-select {
@@ -1144,7 +1144,7 @@ a:hover {
   border: 1px solid #87888b;
   outline: 0;
   background-color: #fff;
-  font-size: 18px;
+  font-size: 15px;
   -webkit-appearance: none;
   -moz-appearance: none;
   -o-appearance: none;
@@ -1226,8 +1226,8 @@ a:hover {
 .form-label {
   float: left;
   width: 130px;
-  color: #87888b;
-  font-size: 18px;
+  color: #000000;
+  font-size: 15px;
   line-height: 40px;
   text-align: right;
 }
@@ -1886,7 +1886,7 @@ a:hover {
 }
 .main-nav-item.active a, .main-nav-item a:active {
   color: white;
-  background: #6e458e url('../images/sprite.png') 10px -1816px no-repeat;
+ /* background: #6e458e url('../images/sprite.png') 10px -1816px no-repeat;*/
 }
 
 .leftside .main-nav-col {
@@ -2746,7 +2746,7 @@ a:hover {
   margin: 15px 0 10px;
   padding: 0 0 0 20px;
   font-size: 32px;
-  font-family: pf_agora_sans_pro_light;
+  font-family: pf_agora_sans_pro_light,  sans-serif;
 }
 
 .service-item {
@@ -2991,7 +2991,7 @@ a:hover {
   transition: border 0.2s;
 }
 .gallery-item:hover {
-  border-color: #aaabad;
+  border-color: #3C75B3;
 }
 
 .fancybox-thumb {
@@ -3003,7 +3003,7 @@ a:hover {
   text-decoration: underline;
 }
 .fancybox-thumb:hover {
-  color: #231f20;
+  color: #3C75B3;
 }
 .fancybox-thumb:hover .gallery-item-img:before {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
@@ -4658,6 +4658,26 @@ article ol {
   overflow:hidden;
   padding-top: 30px;
   height:auto;
+}
+
+
+/*unutar texta text i ul manji razmak*/
+.PaddingText_ul
+{
+	margin-top:-25px;
+}
+
+/*unutar naslov text manji razmak koristi za /p ispod p/ i /p ispod h3*/
+.Padding_text_naslov
+{
+	margin-top:-10px;
+}
+
+
+/*text na text ---error*/
+.Padding_text_text
+{
+	margin-top:-5px;
 }
 
 

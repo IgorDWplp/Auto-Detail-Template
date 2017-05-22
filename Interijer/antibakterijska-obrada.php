@@ -776,10 +776,10 @@
                                <a class="B_homeCrumb" itemprop="url" rel="Home" href="../index.html"><span itemprop="title">Naslovna</span></a>     </li>
 
                            <li itemscope="itemscope" class="B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb">   
-                               <a class="B_crumb" itemprop="url" rel="Услуги" href="/Usluge.html.html"><span itemprop="title">Usluge</span></a>  </li>
+                               <a class="B_crumb" itemprop="url" rel="Услуги" href="../Usluge.html.html"><span itemprop="title">Usluge</span></a>  </li>
 
                            <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb" >     
-                               <a class="B_lastCrumb" itemprop="url" rel="Салон" href="#"><span itemprop="title">Antibakterijska obrada klime</span></a>  </li>
+                               <a class="B_lastCrumb" itemprop="url" rel="Салон" href=""><span itemprop="title">Antibakterijska obrada klime</span></a>  </li>
 
                            
 
@@ -791,7 +791,7 @@
 
                            <div class="inner">
 
-                              <h1>          <span>Antibakterijska obrada klime i ventilacije</span>        </h1>
+                              <h1><span>Antibakterijska obrada klime i ventilacije</span></h1>
 
                            </div>
 
@@ -815,28 +815,38 @@
      u specijaliziranim servisima i Detailing centrima. </p>
                            
 
-                           <p><strong style="color:#3C75B3; line-height: 1.5em;">Što je antibakterijsko čišćenje sustava klimatizacije i ventilacije?</strong>
-                               <span style="color:#3C75B3; line-height: 1.5em;"> </span></p>
+    <p>
+	<strong style="color:#3C75B3; line-height: 1.5em;">
+	Što je antibakterijsko čišćenje sustava klimatizacije i ventilacije?</strong>
+     <span style="color:#3C75B3; line-height: 1.5em;"> </span>
+	 </p>
                            
 
-                           <p>Obzirom da sustav klimatizacije i ventilacije propušta značajne količine zraka, 
-                               u njima se nakuplja prljavština i različiti mikrobi. </p>
+  <p class="Padding_text_naslov">
+	Obzirom da sustav klimatizacije i ventilacije propušta značajne količine zraka, 
+    u njima se nakuplja prljavština i različiti mikrobi. 
+	</p>
 
                           
-
-                           <p>Ukloniti svu nečistoču i mikrobe, može samo profesionalna obrada sistema
-                               klime i ventilacije. Osim mehaničkig ččišćenja koriste se i specijalne tekućine. Iz 
-                               tog razloga postoje različite vrste čišćenja klime i ventilacije. Jedni uklanjaju nečistoću a 
-                               drugi ubijaju mikrobe. </p>
+   <p class="Padding_text_naslov">
+   Ukloniti svu nečistoču i mikrobe, može samo profesionalna obrada sistema
+   klime i ventilacije. Osim mehaničkig ččišćenja koriste se i specijalne tekućine. Iz 
+   tog razloga postoje različite vrste čišćenja klime i ventilacije. Jedni uklanjaju nečistoću a 
+    drugi ubijaju mikrobe. 
+	</p>
                            
-                           <p><strong>Kako često čistiti klimu i ventilaciju?</strong></p>
                            <p>
-                               Stručnjaci preporučuju ovu vrstu čišćenja najmanje jednom godišnje. Isparivač klima uređaja idealno je 
-                               mjesto za razmnožavanje bakterija. Preporučujemo čišćenje klime na jesen i prolječe, kako bi vaš interijer bio uvijek svjež i siguran za zdravlje. 
-                           </p>
+						   <strong style="color:#3C75B3; line-height: 1.5em;">
+						   Kako često čistiti klimu i ventilaciju?</strong>
+						   </p>
+						   
+  <p class="Padding_text_naslov">
+  Stručnjaci preporučuju ovu vrstu čišćenja najmanje jednom godišnje. Isparivač klima uređaja idealno je 
+  mjesto za razmnožavanje bakterija. Preporučujemo čišćenje klime na jesen i prolječe, kako bi vaš interijer bio uvijek svjež i siguran za zdravlje. 
+  </p>
                            
-                           <p>Znakovi da je klima i ventilacija kontaminirana, su:</p>
-                           <ul>
+                           <p><strong><span style="color: #3C75B3;">Znakovi da je klima i ventilacija kontaminirana, su:</span></strong></p>
+                           <ul class="PaddingText_ul">
                                <li><p>Česte prehlade,</p></li>
                                <li><p>Nagle manifestacije alergijskih reakcija</p></li>
                                <li><p>Pojava slabosti</p></li>
@@ -867,7 +877,7 @@
 
                                  
 
-                                    <th>( Golf, Audi A3, BMW 1, Mercedes A…)</th>
+                                    <th>(Golf, Audi A3, BMW 1, Mercedes A…)</th>
 
                                     <th>(Mercedes C, Audi A4, BMW3…)</th>
 

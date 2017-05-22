@@ -742,13 +742,16 @@
             
             <div class="content">
             <ul class="B_crumbBox">
-               <li class="B_firstCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">         <a class="B_homeCrumb" itemprop="url" rel="Home" href="../index.html"><span itemprop="title">Naslovna</span></a>     </li>
-               <li itemscope="itemscope" class="B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb">      <a class="B_crumb" itemprop="url" rel="Услуги" href="../Usluge.html"><span itemprop="title">Usluge</span></a>  </li>
-               <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb" >        <a class="B_crumb" itemprop="url" rel="Салон" href="/services/salon/"><span itemprop="title">Nano keramička zaštita KRYTEX</span></a>  </li>
-               <li class="B_lastCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">    
-               <li itemscope="itemscope" class="B_currentCrumb" itemtype="http://data-vocabulary.org/Breadcrumb">
-                  <p style="visibility: hidden;">Ремонт и восстановление кожи Advance Leather</p>
+               <li class="B_firstCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">         
+                   <a class="B_homeCrumb" itemprop="url" rel="Home" href="../index.html"><span itemprop="title">Naslovna</span></a>     
                </li>
+               <li itemscope="itemscope" class="B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb">     
+                   <a class="B_crumb" itemprop="url" rel="Услуги" href="../Usluge.html"><span itemprop="title">Usluge</span></a>  
+               </li>
+               <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb" >        
+                   <a class="B_lastCrumb" itemprop="url" rel="Салон" href=""><span itemprop="title">Nano keramička zaštita KRYTEX</span></a>  </li>
+               
+             
             </ul>
             <div class="wrap-h1">
                <div class="inner">
@@ -764,26 +767,7 @@
                 
                 
             <article style="display: none;">
-            <p><img style="display: block; margin-left: auto; margin-right: auto;" src="../assets/template/images/nanoskin%20mega%20trend.jpg" alt="" width="525" height="363" /><br /><span style="line-height: 1.5em;">В состав <strong>MEGA TREND</strong> входят частицы неорганического углерода, вольфрамовой стали и базальта. Благодаря этому сочетанию, <strong>MEGA TREND</strong> представляет собой идеально прочное и долговечное покрытие, эффективно минимизирующее появление мелких царапин. После обработки <strong>MEGA TREND</strong>  ваше авто приобретет прекрасные водо- и грязеотталкивающие свойства, что позволит надолго сохранить его первозданную чистоту, зеркальность и блеск. <strong>MEGA TREND</strong> не удаляется водой, щелочью и прочими моющими средствами, а так же при мойке высоким давлением.</span></p>
-            <h3>Стоимость защитного покрытия Nanoskin MEGA TREND</h3>
-            <table class="pricelist-tbl">
-               <thead>
-                  <tr>
-                     <th>Защитное покрытие Nanoskin MEGA TREND</th>
-                     <th>C класс</th>
-                     <th>E класс</th>
-                     <th>S класс и внедорожники</th>
-                  </tr>
-               </thead>
-               <tbody>
-                  <tr>
-                     <td style="text-align: center;">Кузов полностью</td>
-                     <td>от 12 000 руб.</td>
-                     <td>от 14 000 руб.</td>
-                     <td>от 16 000 руб.</td>
-                  </tr>
-               </tbody>
-            </table>
+           
             
               
 <a name="anchor_link"></a>

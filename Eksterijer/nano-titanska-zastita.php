@@ -199,12 +199,21 @@
              <script src="../assets/template/js/jquery.popup.js" type="text/javascript"></script>
             <link href="../assets/template/css/jquery.popup.css" rel="stylesheet" type="text/css"/>
             
+     
             
             
-            <script type="text/javascript">    
-                var site_base_url = '/';    
-                var shkOpt = jQuery.extend(shkOptDefault,{prodCont:'div.shk-item', orderFormPage:'456', orderFormPageUrl:'/checkout/', changePrice:true, flyToCart:'nofly', style:'0', noLoader:true, animCart:false, psn:'MuVnh4ijyePwqI3jWvQVhg==', shkHelper:'<div id="shk_prodHelper" style="border-radius: 10px; -o-border-radius:10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px;">'+'<div id="shk_prodHelperName"></div>'+'<div class="shs-count" id="shk_prodCount">'+'<input type="text" size="2" name="count" value="1" maxlength="3" />'+'</div>'+'<div class="helperButtonsBl">'+'<button class="shk-but" id="shk_confirmButton">ОК</button>'+'<button class="shk-but" id="shk_cancelButton">Отмена</button>'+'</div>'+'</div>'});    SHK.data = {price_total:0, items_total:0, items_unique_total:0, ids:[]};    jQuery(document).bind('ready',function(){        jQuery(shkOpt.prodCont).shopkeeper();    });   
-                        </script>
+            <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-99576173-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+            
+            
             
          </head>
          
@@ -745,14 +754,13 @@
          <span itemprop="title">Usluge</span></a></li>
                            <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb" >        
                                <a class="B_crumb" itemprop="url" rel="Салон" href=""><span itemprop="title">Nano titanska zaštita KRYTEX</span></a>  </li>
-                           <!--li class="B_lastCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb"-->    
-                           <!--li itemscope="itemscope" class="B_currentCrumb" itemtype="http://data-vocabulary.org/Breadcrumb"-->
+                     
                         
                          
                         </ul>
                         <div class="wrap-h1">
                            <div class="inner">
-                              <h1>          <span>Nano titanska zaštita KRYTEX</span>        </h1>
+                              <h1><span>Nano titanska zaštita KRYTEX</span></h1>
                            </div>
                         </div>
                          
@@ -764,16 +772,14 @@
     
     
                          
-                        <article style="">
+                        <article>
                            <p><!--img style="display: block; margin-left: auto; margin-right: auto;" src="../assets/template/images/nanoskin%20mega%20trend.jpg" alt="" width="525" height="363" /-->
                       
                          
-                           <h3>Nano titanska zaštita Kraytex Mega 10</h3>
                 
-                           <p><span style="line-height: 1.5em;">Nano titanska zaštita <strong>Krytex Mega 10</strong>
-                         je unikatni zaštitni premaz, koji maksimalno štiti lak Vašeg automobila.</p>
+                           <p ><span style="line-height: 1.5em;"><strong>Nano titanska zaštita Kraytex Mega 10</strong></span> je unikatni zaštitni premaz, koji maksimalno štiti lak Vašeg automobila.</p>
                            
-                            <p>
+                            <p class="Padding_text_naslov">
                                 
                                 Jedinstvena formula premaza Krytex Mega 10,  omogućuje nanošenje u 
                                 više slojeva i kombiniranje slojeva sa drugim premazima kao što su  Krytex Mega 8, Krytex 9H+,  
@@ -785,22 +791,21 @@
                   
                             <br/>
                             
-                            <h3>Prednosti nano titanske zaštite Krytex Mega 10</h3>
+                            <h3 >Prednosti nano titanske zaštite Krytex Mega 10</h3>
                             
                             
                 <p>  
-                    <span style="line-height: 1em;">Prednosti nano titanske zaštite  <strong>Krytex Mega 10</strong>
-                    </span>
-                   <ul>
-                       <li><p>- Smanjuje rizik od oštećenja laka vozila u autopraonicama, sa lošijom kvalitetom      deterdženata i nisko kvalificiranim osobljem</p></li>
-                       <li><p>- Zaštita laka od izbljeđivanja na suncu, dodatna otpornost na štetno UV zračenje</p></li>
-                       <li><p>- Visoka otpornost na kemikalije</p></li>
-                       <li><p>- Otpornost na ogrebotine (iznad 10H)</p></li>
-                       <li><p>- Smanjuje rizik od sitnih oštečenja nastalih udarom kamenčića </p></li>
-                       <li><p>- Smanjuje rizik od oksidacije zbog korozije</p></li>
-                       <li><p>- Antigrafitna zaštita</p></li>
-                       <li><p>- Hidrofobni efekt</p></li>
-                       <li><p>- Izuzetan sjaj</p></li>
+                   
+                   <ul class="PaddingText_ul">
+                       <li><p>Smanjuje rizik od oštećenja laka vozila u autopraonicama, sa lošijom kvalitetom      deterdženata i nisko kvalificiranim osobljem</p></li>
+                       <li><p>Zaštita laka od izbljeđivanja na suncu, dodatna otpornost na štetno UV zračenje</p></li>
+                       <li><p>Visoka otpornost na kemikalije</p></li>
+                       <li><p>Otpornost na ogrebotine (iznad 10H)</p></li>
+                       <li><p>Smanjuje rizik od sitnih oštečenja nastalih udarom kamenčića </p></li>
+                       <li><p>Smanjuje rizik od oksidacije zbog korozije</p></li>
+                       <li><p>Antigrafitna zaštita</p></li>
+                       <li><p>Hidrofobni efekt</p></li>
+                       <li><p>Izuzetan sjaj</p></li>
                    </ul>
                    
                    
@@ -809,7 +814,7 @@
                    
                    
                    <h3>Cijena nanošenja nano titanske zaštite Krytex Mega 10</h3>
-                     <p>
+                     <p class="Padding_text_naslov">
                        
                     
                         
@@ -820,12 +825,22 @@ Zbog postizanja još bolje čvrstoće i hidrofobnog svojstva, moguče je nanoše
                            <table class="pricelist-tbl">
                               <thead>
                                  <tr>
-                                    <th>Krytex Mega 10</th>
-                                    <th>Golf  Class 3, BMW 1, Mercedes A…)</th>
-                                    <th>C Class (Mercedes C, Audi A4, BMW3…)</th>
-                                    <th>E Class (Mercedes E, BMW 5, Audi A6…</th>
-                                    <th>S class i terenci(Mercedes S class, Audi A8, BMW 7, Range Rover…)</th>
+                                    <th rowspan="2">Krytex Mega 10</th>
+                                    <th>Golf  Class </th>
+                                    <th>C Class </th>
+                                    <th>E Class </th>
+                                    <th>S class i terenci</th>
                                  </tr>
+								 
+								       <tr>
+                                   
+                                  <th>(Golf, Audi A3, BMW 1, Mercedes A…)</th>
+                                    <th>(Mercedes C, Audi A4, BMW3…)</th>
+                                    <th>(Mercedes E, BMW 5, Audi A6…</th>
+                                    <th>(Mercedes S class, Audi A8, BMW 7, Range Rover…)</th>
+                                 </tr>
+								 
+								 
                               </thead>
                               <tbody>
                                  <tr>
@@ -1026,7 +1041,7 @@ Zbog postizanja još bolje čvrstoće i hidrofobnog svojstva, moguče je nanoše
 
 
 
-<div style="visibility: hidden;"><a href="http://sfera-adria.com" >Sfera-Adria.com</a></div>
+<div style="visibility: hidden;"><a href="http://sfera-adria.com">Sfera-Adria.com</a></div>
 
       </div>
 

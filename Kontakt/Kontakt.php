@@ -610,17 +610,18 @@
  </div>
 </div>
 <ul class="B_crumbBox"><li class="B_firstCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
-        <a class="B_homeCrumb" itemprop="url" rel="Home" href="index.html"><span itemprop="title">Naslovna</span></a></li>
-  <li class="B_lastCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
-  <li itemscope="itemscope" class="B_currentCrumb" itemtype="http://data-vocabulary.org/Breadcrumb">Kontakt</li>
+<a class="B_homeCrumb" itemprop="url" rel="Home" href="index.html"><span itemprop="title">Naslovna</span></a></li>
+<li class="B_lastCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+<li itemscope="itemscope" class="B_currentCrumb" itemtype="http://data-vocabulary.org/Breadcrumb">Kontakt</li>
 </ul>
             
             
-            
-            
+                      
             
 <div class="b-contacts">
-    <div class="contact-info"><dl><dt>Naša adresa:</dt><dd><address> DETAILIGN STAR d.o.o. <br/> Samoborska cesta 226, Zagreb</address></dd><dt>Kontakt brojevi:</dt><dd>
+    <div class="contact-info"><dl><dt>Naša adresa:</dt><dd><address> DETAILIGN STAR d.o.o. 
+	<br/> 
+	Samoborska cesta 226, Zagreb</address></dd><dt>Kontakt brojevi:</dt><dd>
 <div class="phone"><span>01 4852 449</span></div>
 
 </dd><dt>E-mail:</dt><dd><a href="mailto:info@detailing-star.hr">info@detailing-star.hr</a>
@@ -636,20 +637,25 @@
       <h2>
        Kontaktirajte nas
       </h2>
+	  
       <div class="form-item">
         <label class="form-label">Ime :</label>
         <div class="controls">
-          <input class="form-text" type="text" name="name" placeholder="ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
-		  		<?php echo "<p class='errorForm'>$errName</p>";?>
-        </div>
+        <input class="form-text" type="text" name="name" placeholder="Ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
+	    <?php echo "<p class='errorForm'>$errName</p>";?>
+       </div>
       </div>
+	  
+	  
       <div class="form-item">
-        <label class="form-label">Tel:</label>
-        <div class="controls">
-          <input class="form-text" type="tel" name="tel" placeholder="Tel" value="<?php echo htmlspecialchars($_POST['tel']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoj kontakt mobitel ili telefon')">
-		    	<?php echo "<p class='errorForm'> $errTel</p>";?>
-        </div>
+      <label class="form-label">Tel:</label>
+      <div class="controls">
+      <input class="form-text" type="tel" name="tel" placeholder="Tel" value="<?php echo htmlspecialchars($_POST['tel']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoj kontakt mobitel ili telefon')">
+	  <?php echo "<p class='errorForm'> $errTel</p>";?>
       </div>
+      </div>
+	  
+	  
       <div class="form-item">
         <label class="form-label">E-mail:</label>
         <div class="controls">
@@ -657,6 +663,8 @@
 		  	<?php echo "<p class='errorForm'>$errEmail</p>";?>
         </div>
       </div>
+	  
+	  
       <div class="form-item">
         <label class="form-label">Poruka:</label>
         <div class="controls">
@@ -698,7 +706,7 @@
 
         <div class="b-footer-socials" style="visibility: hidden;">
 
- <a class="social-link facebook" href="#"></a><a class="social-link youtube" href="#"></a><a class="social-link instagram" href="#"></a>
+ <!--a class="social-link facebook" href="#"></a><a class="social-link youtube" href="#"></a><a class="social-link instagram" href="#"></a-->
 
         </div>
 

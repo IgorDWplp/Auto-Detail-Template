@@ -479,7 +479,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display:none;">
 
                                             <a href="../Eksterijer/zastita-folijom-SunTek.php">Zaštita folijom SunTek</a>       
 
@@ -491,7 +491,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display:none;">
 
                                             <a href="../Eksterijer/uklanjanje-ogrebotina.php">Uklanjanje ogrebotina</a>
 
@@ -503,7 +503,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display:none;">
 
                                             <a href="../Eksterijer/lakiranje-auta.php">Lakiranje auta</a>
 
@@ -567,7 +567,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display:none;">
 
                                             <a href="../Interijer/aromatizacija-interijera-auta.php">Aromatizacija interijera auta</a>
 
@@ -641,7 +641,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display:none;">
 
                                             <a href="../Autostakla/anti-termalna-zastita-stakla-folijom-SunTek.php">Anti termalna zaštita stakla folijom SunTek</a>
 
@@ -766,11 +766,9 @@
   
   
     <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb" >
-      <a class="B_crumb" itemprop="url" rel="Салон" href="/services/salon/"><span itemprop="title">Nano zaštita stakala </span></a>
+      <a class="B_crumb B_lastCrumb" itemprop="url" rel="Салон" href=""><span itemprop="title">Nano zaštita stakala </span></a>
   </li>
  
-    <li class="B_lastCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
-    <li itemscope="itemscope" class="B_currentCrumb" itemtype="http://data-vocabulary.org/Breadcrumb"><p style="visibility: hidden;">Ремонт и восстановление кожи Advance Leather</p></li>
 
   
  
@@ -797,35 +795,124 @@
 </div>        
                          
                          
-                       <article style="display: none;">
-			<p style="text-align: center;"><iframe src="http://www.youtube.com/embed/YdQAmv5hoRc" frameborder="0" width="560" height="315"></iframe></p>
-<p>Технология<strong> <span style="color: #7030a0;">Advance Umbrella </span></strong>—  обеспечивает комфортное вождение автомобиля даже в самых неблагоприятных погодных условиях, снижает напряжение и утомляемость глаз, особенно в ночное время суток.<br /><br /><strong><span style="color: #7030a0;">Advance Umbrella </span></strong>позволяет зимой легко удалять со стекла обледенение, а в летний период - следы насекомых. <br /><br />В отличие от обычного "антидождя", <strong><span style="color: #7030a0;">Advance Umbrella </span></strong>имеет уникальную формулу на основе фтора, которая создает прочное химическое соединение со стеклом, благодаря чему эффект сохраняется в несколько раз дольше.<br /><br /><strong>Преимущества <span style="color: #7030a0;">Advance Umbrella</span>:</strong></p>
-<ul>
-<li>мощные гидрофобные свойства;</li>
-<li>долгосрочный эффект;</li>
-<li>снижение износа лобового стекла;</li>
-<li>безопасное вождение в любую погоду.</li>
+<article>
+<p>
+<strong><span style="color: #3C75B3;">Hidrofobna zaštita Krytex Glass</strong></span> osigurava udobnu vožnju čak i u najtežim vremenskim uvjetima, 
+smanjuje stres i umor očiju, posebno noću.
+</p>
+
+
+
+<strong><span style="color: #3C75B3;">Krytex Glass omogućava lako skidanje leda zimi, a kukaca ljeti. </strong></span>
+
+
+<p class="">
+Za razliku od jeftinih hidrofobnih (anti rain) premaza, Krytex Glass ima unikatnu formulu 
+zbog koje ima izuzetno prijanjanje na podlogu, što rezultira da efekt zaštite traje nekoliko puta 
+dulje od običnih sredstava. Uz to štiti staklo od sitnih ogrebotina i manjih oštećenja.
+</p>   
+   
+
+
+<p><strong><span style="color: #3C75B3;">Prednosti Krytex Glass premaza:</strong></span></p>
+<ul class="PaddingText_ul">
+<li><p>Jaka hidrofobna svojstva;</p></li>
+<li><p>Dugoročni učinci;</p></li>
+<li><p>Zaštita vjetrobranskog stakal od ogrebotina i sitnih oštećenja;</p></li>
+<li><p>Sigurna vožnja u svim vremenskim uvjetima.</p></li>
 </ul>
-<h3>Стоимость антидождевого покрытия Advance Umbrella</h3>
-<table class="pricelist-tbl">
-<thead>
-<tr><th>Антидождевое покрытие Advance Umbrella</th><th>C класс</th><th>E класс</th><th>S класс и внедорожники</th></tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">Передняя полусфера и зеркала</td>
-<td>3 500 руб.</td>
-<td>4 000 руб.</td>
-<td>4 500 руб.</td>
-</tr>
-<tr>
-<td style="text-align: center;">Все стекла</td>
-<td>5 000 руб.</td>
-<td>5 500 руб.</td>
-<td>6 000 руб.</td>
-</tr>
-</tbody>
-</table>
+
+
+
+
+
+
+        <table class="pricelist-tbl">
+                              <thead>
+                                 <tr>
+                                    <th rowspan="2">Nano zaštita vetrobranskog stakla</th>
+                                    <th>Golf  Class </th>
+                                    <th>C Class </th>
+                                    <th>E Class </th>
+                                    <th>S class i terenci</th>
+                                 </tr>
+								 
+								       <tr>
+                                   
+                                  <th>(Golf, Audi A3, BMW 1, Mercedes A…)</th>
+                                    <th>(Mercedes C, Audi A4, BMW3…)</th>
+                                    <th>(Mercedes E, BMW 5, Audi A6…</th>
+                                    <th>(Mercedes S class, Audi A8, BMW 7, Range Rover…)</th>
+                                 </tr>
+								 
+								 
+                              </thead>
+                              <tbody>
+                                 <tr>
+                                    <td style="text-align: center;">Cijena bez PDV</td>
+                                    <td>160 kn</td>
+                                    <td>160 kn</td>
+                                    <td>160 kn</td>
+                                    <td>176 kn</td>
+                                 </tr>
+                                 
+                                  <tr>
+                                    <td style="text-align: center;">Cijena sa PDV</td>
+                                    <td>200 kn</td>
+                                    <td>200 kn</td>
+                                    <td>200 kn</td>
+                                    <td>200 kn</td>
+                                 </tr>
+                                 
+                                 
+                              </tbody>
+                           </table>
+
+
+<br/>
+<br/>
+
+						      <table class="pricelist-tbl">
+                              <thead>
+                                 <tr>
+                                    <th rowspan="2" style="width: 204px;">Nano zaštita svih stakala </th>
+                                    <th>Golf  Class </th>
+                                    <th>C Class </th>
+                                    <th>E Class </th>
+                                    <th>S class i terenci</th>
+                                 </tr>
+								 
+								       <tr>
+                                   
+                                  <th>(Golf, Audi A3, BMW 1, Mercedes A…)</th>
+                                    <th>(Mercedes C, Audi A4, BMW3…)</th>
+                                    <th>(Mercedes E, BMW 5, Audi A6…</th>
+                                    <th>(Mercedes S class, Audi A8, BMW 7, Range Rover…)</th>
+                                 </tr>
+								 
+								 
+                              </thead>
+                              <tbody>
+                                 <tr>
+                                    <td style="text-align: center;">Cijena bez PDV</td>
+                                    <td>240 kn</td>
+                                    <td>240 kn</td>
+                                    <td>240 kn</td>
+                                    <td>280 kn</td>
+                                 </tr>
+                                 
+                                  <tr>
+                                    <td style="text-align: center;">Cijena sa PDV</td>
+                                    <td>300 kn</td>
+                                    <td>300 kn</td>
+                                    <td>300 kn</td>
+                                    <td>350 kn</td>
+                                 </tr>
+                                 
+                                 
+                              </tbody>
+                           </table>
+
 
 
 
@@ -859,7 +946,7 @@
                                     <div class="form-item">
                                         <label class="form-label">Ime :</label>
                                         <div class="controls">
-                                            <input class="form-text" type="text" name="name" placeholder="ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
+                                            <input class="form-text" type="text" name="name" placeholder="Ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
 <?php echo "<p class='errorForm'>$errName</p>"; ?>
                                         </div>
                                     </div>

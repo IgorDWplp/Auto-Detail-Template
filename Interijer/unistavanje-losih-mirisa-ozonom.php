@@ -203,25 +203,6 @@
 
 
 
-    <script type="text/javascript">
-    var site_base_url = '/';
-    var shkOpt = jQuery.extend(shkOptDefault,{prodCont:'div.shk-item', orderFormPage:'456', orderFormPageUrl:'/checkout/', changePrice:true, flyToCart:'nofly', style:'0', noLoader:true, animCart:false, psn:'MuVnh4ijyePwqI3jWvQVhg=='
-, shkHelper:'<div id="shk_prodHelper" style="border-radius: 10px; -o-border-radius:10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px;">'
-+'<div id="shk_prodHelperName"></div>'
-+'<div class="shs-count" id="shk_prodCount">'
-+'<input type="text" size="2" name="count" value="1" maxlength="3" />'
-+'</div>'
-+'<div class="helperButtonsBl">'
-+'<button class="shk-but" id="shk_confirmButton">ОК</button>'
-+'<button class="shk-but" id="shk_cancelButton">Отмена</button>'
-+'</div>'
-+'</div>'
-});
-    SHK.data = {price_total:0, items_total:0, items_unique_total:0, ids:[]};
-    jQuery(document).bind('ready',function(){
-        jQuery(shkOpt.prodCont).shopkeeper();
-    });
-    </script>
   
   
 </head>
@@ -504,7 +485,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Eksterijer/zastita-folijom-SunTek.php">Zaštita folijom SunTek</a>       
 
@@ -516,7 +497,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Eksterijer/uklanjanje-ogrebotina.php">Uklanjanje ogrebotina</a>
 
@@ -528,7 +509,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Eksterijer/lakiranje-auta.php">Lakiranje auta</a>
 
@@ -592,7 +573,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Interijer/aromatizacija-interijera-auta.php">Aromatizacija interijera auta</a>
 
@@ -666,7 +647,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Autostakla/anti-termalna-zastita-stakla-folijom-SunTek.php">Anti termalna zaštita stakla folijom SunTek</a>
 
@@ -786,12 +767,11 @@
  
   
     <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb" >
-      <a class="B_crumb" itemprop="url" rel="Салон" href="/services/salon/"><span itemprop="title">Uništavanje loših mirisa ozonom</span></a>
+      <a class="B_lastCrumb" itemprop="url" rel="Салон" href=""><span itemprop="title">Uništavanje loših mirisa ozonom</span></a>
   </li>
  
-    <li class="B_lastCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
-    <li itemscope="itemscope" class="B_currentCrumb" itemtype="http://data-vocabulary.org/Breadcrumb"><p style="visibility: hidden;">Ремонт и восстановление кожи Advance Leather</p></li>
 
+  
 </ul>
             
             
@@ -812,28 +792,108 @@
             
             
             
-          <article style="display: none;">
-			<p style="text-align: center;"><img src="../assets/template/images/zozon.jpg" alt="" width="560" height="373" /></p>
-<p>Особый запах и ощущение свежести и чистоты после грозы — это воздействие озона. Достичь подобного результата в салоне Вашего автомобиля поможет озоновая дезодорация. Она устраняет запах домашних животных, продуктов, никотиновых смол и плесени.<br /><br />Обработка проводится с помощью озонового генератора. Озон является экологически чистым реагентом: в отличие от большинства химических веществ, применяющихся для обеззараживания, он не образует токсичных соединений, а его следы в воздухе и на поверхностях самопроизвольно конвертируются в кислород.<br /><br /><strong><span style="color: #7030a0;">Озоновая обработка салона</span></strong> — необходимое дополнение к химчистке, помогающее окончательно победить микробов и бактерий и защитить от аллергических реакций.<br /><br /><strong>Преимущества <span style="color: #7030a0;">озоновой обработки салона</span>:</strong></p>
-<ul>
-<li><span style="line-height: 1.5em;">устраняет самые стойкие неприятные запахи;</span></li>
-<li><span style="line-height: 1.5em;">создает высокую концентрацию озона, трансформирующегося в кислород;</span></li>
-<li><span style="line-height: 1.5em;">уничтожает вредоносные бактерии.</span></li>
+          <article>
+			<!--p style="text-align: center;"><img src="../assets/template/images/zozon.jpg" alt="" width="560" height="373" /></p-->
+<p>
+    Nakon oluje i udara groma u zraku se pojavljuje poseban osjećaj svježine i čistoće, što je posljedica utjecaja ozona. 
+    Da bi postigli isti rezultat u prostoru vašeg automobila obradit ćemo unutrašnjost ozonom. Na taj način eleminirati ćemo mirise 
+    kučnih ljubimaca, nikotina, plijesni i ostale mirisa. 
+</p>
+
+
+<p class="Padding_text_naslov">
+    Obradu vršimo sa generatorom ozona. Ozon je ekološki čisti reagens za razliku od većine 
+    kemikalija za dezinfekciju, ne proizvodi toksične spojeve, i njegovi se tragovi u zraku i na
+    površinama spontano transformiraju u kisik.
+</p>
+    
+<p class="Padding_text_naslov">
+    Tretman interijera ozonom, poželjan je dodatak nakon kemijskog čišćenja interijera, da bi konačno uništili sve mikrobe i bakterija, i zaštitili sebe od alergijskih reakcija. 
+    
+</p>
+
+<p><strong><span style="color: #3C75B3;">Prednosti obrade interijera ozonom:</span></strong></p>
+<ul class="PaddingText_ul">
+    <li><p>Uklanja sve ustajale mirise;</p></li>
+    <li><p>Proizvodi visoku koncentraciu ozona koja se transformira u kisik;</p></li>
+    <li><p>Uništava štetne bakterije</p></li>
 </ul>
-<h3>Стоимость озоновой обработки салона</h3>
-<table class="pricelist-tbl">
-<thead>
-<tr><th>Озоновая обработка салона</th><th>C класс</th><th>E класс</th><th>S класс и внедорожники</th></tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">Стоимость обработки</td>
-<td>от 4 500 руб.</td>
-<td>от 4 500 руб.</td>
-<td>от 4 500 руб.</td>
-</tr>
-</tbody>
-</table>
+    
+
+
+
+     <table class="pricelist-tbl">
+
+                                <thead>
+
+                                    <tr>
+
+                                        <th rowspan="2">Uništavanje loših mirisa ozonom</th>
+
+                                        <th>Golf  Class</th>
+
+                                        <th>C Class</th>
+
+                                        <th>E Class</th>
+                                        
+                                        <th>S class i terenci</th>
+
+                                    </tr>
+                                    
+                                        <tr>
+
+                                       
+
+                                        <th>( Golf, Audi A3, BMW 1, Mercedes A…)</th>
+
+                                        <th>(Mercedes C, Audi A4, BMW3…)</th>
+
+                                        <th>(Mercedes E, BMW 5, Audi A6…</th>
+                                        
+                                        <th>(Mercedes S class, Audi A8, BMW 7, Range Rover…)</th>
+
+                                    </tr>
+
+                                </thead>
+
+                                <tbody>
+
+                                    <tr>
+
+                                        <td style="text-align: center;">Cijena bez PDV</td>
+
+                                        <td>240 kn</td>
+                                        
+                                        <td>240 kn</td>
+
+                                          <td>240 kn</td>
+                                        
+                                          <td>240 kn</td>
+
+                                    </tr>
+                                    
+                                    
+                                    
+                                          <tr>
+
+                                        <td style="text-align: center;">Cijena sa PDV</td>
+
+                                        <td>300 kn</td>
+
+                                        <td>300 kn</td>
+
+                                        <td>300 kn</td>
+                                        
+                                        <td>300 kn</td>
+
+                                    </tr>
+
+                                </tbody>
+
+                            </table>
+
+
+
 
 <a name="anchor_link"></a>
  <div class="open_order_form">
@@ -850,7 +910,7 @@
                                     <div class="form-item">
                                         <label class="form-label">Ime :</label>
                                         <div class="controls">
-                                            <input class="form-text" type="text" name="name" placeholder="ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
+                                            <input class="form-text" type="text" name="name" placeholder="Ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
 <?php echo "<p class='errorForm'>$errName</p>"; ?>
                                         </div>
                                     </div>

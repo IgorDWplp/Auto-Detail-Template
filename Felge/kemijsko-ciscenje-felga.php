@@ -468,7 +468,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Eksterijer/zastita-folijom-SunTek.php">Zaštita folijom SunTek</a>       
 
@@ -480,7 +480,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Eksterijer/uklanjanje-ogrebotina.php">Uklanjanje ogrebotina</a>
 
@@ -492,7 +492,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Eksterijer/lakiranje-auta.php">Lakiranje auta</a>
 
@@ -556,7 +556,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Interijer/aromatizacija-interijera-auta.php">Aromatizacija interijera auta</a>
 
@@ -630,7 +630,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Autostakla/anti-termalna-zastita-stakla-folijom-SunTek.php">Anti termalna zaštita stakla folijom SunTek</a>
 
@@ -755,11 +755,12 @@
   
   
     <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb" >
-      <a class="B_crumb" itemprop="url" rel="Салон" href="/services/salon/"><span itemprop="title">Kemijsko čiščenje felga</span></a>
+      <a class="B_crumb" itemprop="url" rel="Салон" href=""><span itemprop="title">Kemijsko čiščenje felga</span></a>
   </li>
  
     <li class="B_lastCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
-    <li itemscope="itemscope" class="B_currentCrumb" itemtype="http://data-vocabulary.org/Breadcrumb"><p style="visibility: hidden;">Ремонт и восстановление кожи Advance Leather</p></li>
+	
+   
 
   
  
@@ -773,7 +774,7 @@
 <div class="wrap-h1">
  <div class="inner">
         <h1>
-          <span>Kemijsko čiščenje felga</span>
+          <span>Kemijsko čišćenje felga</span>
         </h1>
  </div>
 </div>
@@ -782,41 +783,73 @@
             
             
                             
-                                      <div style="text-align: center; width: 50%; padding-bottom: 10px;">
+<div style="text-align: center; width: 50%; padding-bottom: 30px;">
 <?php echo "<h1 class='errorForm'>$warning</h1>"; ?>
 </div>        
                          
                          
-                       <article style="display: none;">
-			<p style="text-align: center;"><iframe src="http://www.youtube.com/embed/EyPULaoP8Aw" frameborder="0" width="560" height="315"></iframe></p>
-<p>Одна из основных проблем колесных дисков – оседание на них металлизированной пыли от работы тормозных колодок, а также дорожных реагентов. От этих воздействий диски желтеют, подвергаются окислению и коррозии. Технология <span style="color:#3C75B3; line-height: 1.5em;"><strong>Advance Wheels</strong> </span><span style="line-height: 1.5em;">позволяет не только защитить новые диски, но и вернуть прежний лоск старым за счет нанесения специального состава, блокирующего попадание в краску диска мельчайших разрушительных частиц. После проведения процедуры облегчается мойка дисков, увеличивается срок их эксплуатации.</span></p>
-<p class="strong" style="color: #000000;">Преимущества обработки <span style="color:#3C75B3; line-height: 1.5em;"><strong>Advance Wheels</strong></span><span style="line-height: 1.5em;">:</span></p>
-<ul>
-<li>уменьшает налипание грязи и тормозной пыли;</li>
-<li>облегчает мойку;</li>
-<li>защищает от пожелтения и коррозии (окисления).</li>
+<article>
+
+
+
+<p class="Padding_text_naslov">
+Kemijsko čišćenje felge u „Detailing Star“ centru, odličan je način da im vratite prvobitni sjaj.
+Nakon kemijskog čišćenja bit će ukolonjeni bitumen, čestice metala od kočnica i druge tvrdokorne nečistoće.
+</p>
+
+<p><strong><span style="color: #3C75B3;">Proces kemijskog čišćenja felge:</strong></span></p>
+<ul class="PaddingText_ul">
+<li><p>Skidanje kotača</p></li>
+<li><p>Pranje i skidanje osnovnih nečistoća</p></li>
+<li><p>Obrada felge spcijalnim sredstvima za čišćenje</p></li>
+<li><p>Sušenje</p></li>
+<li><p>Preporuka: Nanos zaštitnog nano sloja Krytex Rims</p></li>
+<li><p>Vračanje kotača na vozilo</p></li>
 </ul>
-<p>Компания <span style="color:#3C75B3; line-height: 1.5em;"><strong>Advance Star</strong></span><span style="line-height: 1.5em;"> осуществляет высококачественное покрытие дисков при помощи нано-материалов, с использованием средств лучших мировых брендов, что гарантирует великолепный результат и длительное сохранение первозданного вида.</span></p>
-<h3>Стоимость защитного покрытия Advance Wheels<span style="color:#3C75B3; line-height: 1.5em; font-size: 12px; font-weight: normal;"><br /></span></h3>
-<table class="pricelist-tbl">
-<thead>
-<tr><th>Защитное покрытие колесных дисков</th><th>C класс</th><th>E класс</th><th>S класс и внедорожники</th></tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">Внешняя сторона (за комплект)</td>
-<td>от 3 000 руб.</td>
-<td>от 3 000 руб.</td>
-<td>от 3 000 руб.</td>
-</tr>
-<tr>
-<td style="text-align: center;">Полностью (за комплект)</td>
-<td>от 7 000 руб.</td>
-<td>от 7 000 руб.</td>
-<td>от 7 000 руб.</td>
-</tr>
-</tbody>
-</table>
+
+
+
+
+
+
+
+      <table class="pricelist-tbl">
+                              <thead>
+                                 <tr>
+                                    <th>Kemijsko čiščenje felga (prednja i unutrašnja strana, 4 komada)</th>
+                                    <th>do 16''</th>
+                                    <th>17''-19''</th>
+                                    <th>20" i više</th>
+                                   
+                                 </tr>
+								 
+							
+								 
+                              </thead>
+                              <tbody>
+                                 <tr>
+                                    <td style="text-align: center;">Cijena bez PDV</td>
+                                    <td>160 kn</td>
+                                    <td>200 kn</td>
+                                    <td>240 kn</td>
+                                    
+                                 </tr>
+                                 
+                                  <tr>
+                                    <td style="text-align: center;">Cijena sa PDV</td>
+                                     <td>200 kn</td>
+                                     <td>250 kn</td>
+                                     <td>300 kn</td>
+                                    
+                                 </tr>
+                                 
+                                 
+                              </tbody>
+                           </table>	
+
+
+
+
 
 
 <a name="anchor_link"></a>
@@ -840,7 +873,7 @@
                                     <div class="form-item">
                                         <label class="form-label">Ime :</label>
                                         <div class="controls">
-                                            <input class="form-text" type="text" name="name" placeholder="ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
+                                            <input class="form-text" type="text" name="name" placeholder="Ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
 <?php echo "<p class='errorForm'>$errName</p>"; ?>
                                         </div>
                                     </div>

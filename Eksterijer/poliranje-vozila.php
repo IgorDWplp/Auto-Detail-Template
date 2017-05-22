@@ -200,7 +200,16 @@
              <script src="../assets/template/js/jquery.popup.js" type="text/javascript"></script>
             <link href="../assets/template/css/jquery.popup.css" rel="stylesheet" type="text/css"/>
             
-            
+            <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-99576173-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
          
          
          </head>
@@ -554,7 +563,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display:none;">
 
                                             <a href="../Interijer/aromatizacija-interijera-auta.php">Aromatizacija interijera auta</a>
 
@@ -739,11 +748,10 @@
                         <ul class="B_crumbBox">
                            <li class="B_firstCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">         <a class="B_homeCrumb" itemprop="url" rel="Home" href="../index.html"><span itemprop="title">Naslovna</span></a>     </li>
                            <li itemscope="itemscope" class="B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb">      <a class="B_crumb" itemprop="url" rel="Услуги" href="../Usluge.html"><span itemprop="title">Usluge</span></a>  </li>
-                           <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb" >      <a class="B_crumb" itemprop="url" rel="Салон" href="/services/salon/"><span itemprop="title">Poliranje vozila</span></a>  </li>
-                           <li class="B_lastCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">    
-                           <li itemscope="itemscope" class="B_currentCrumb" itemtype="http://data-vocabulary.org/Breadcrumb">
-                              <p style="visibility: hidden;">Ремонт и восстановление кожи Advance Leather</p>
-                           </li>
+                           <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb" >     
+						   <a class="B_crumb" itemprop="url" rel="Салон" href=""><span itemprop="title">Poliranje vozila</span></a>  </li>
+                           
+                        
                         </ul>
                         <div class="wrap-h1">
                            <div class="inner">
@@ -758,60 +766,136 @@
                          
                          
                          
-                              <article style="display: none;">
-                           <p style="text-align: center;"><iframe src="http://www.youtube.com/embed/0Xxxm78Lsvs" frameborder="0" width="560" height="315"></iframe></p>
-                           <p><span style="color:#3C75B3; line-height: 1.5em;"><strong>Защитное покрытие Advance </strong></span>является комплексной профессиональной обработкой, обеспечивающей превосходный блеск и надежные защитные свойства кузову автомобиля. Ни для кого не секрет, что каждый автолюбитель хочет видеть своего железного друга сверкающим на солнце и выделяющимся из общей серой массы на дороге, в этом вам поможет Центр профессионального детейлинга <span style="color:#3C75B3; line-height: 1.5em;"><strong>Advance Star</strong></span><span style="line-height: 1.5em;">, использующий только лучшие средства по уходу за авто.</span></p>
-                           <p>Защита кузова <span style="color:#3C75B3; line-height: 1.5em;"><strong>Advance</strong> </span><span style="line-height: 1.5em;">- это уникальное средство, не имеющее аналогов в мире. Его суть заключается в изменении свойств лакокрасочного  покрытия: зеркального блеска и стойкости к UV излучению, химическому воздействию. Глассплексин является активным веществом, превращающим покрытие в гибрид лака и стекла, а также придает невероятный блеск и насыщенность цвета.</span></p>
-                           <p><strong>Обработка кузова автомобиля, детали процесса</strong></p>
-                           <p><strong>Процедура проводится в течение шести – восьми часов и состоит из:</strong></p>
-                           <ul class="b-qlist">
-                              <li>подготовки поверхности для дальнейшей обработки;</li>
-                              <li>глубокой очистки покрытия от поврежденных участков;</li>
-                              <li>поэтапного нанесения состава, в зависимости от степени повреждений.</li>
-                           </ul>
-                           <p><strong>Защита ЛКП нового автомобиля гарантирует:</strong></p>
-                           <ul class="b-qlist">
-                              <li>стойкость к температуре от – 65 град. до + 340 град. без повреждения;</li>
-                              <li>защиту от кислородного окисления покрытия;</li>
-                              <li>предохранение от воздействия дорожных реагентов и битума, появления пятен от жесткой воды;</li>
-                              <li>минимизацию негативного влияния UV;</li>
-                              <li>надежность покрытия, обеспечивает блеск, сроком от 3 лет.</li>
-                           </ul>
-                           <p>Защита автомобиля от солнца обязательна для выполнения с регулярной периодичностью и рекомендована ведущими мировыми специалистами, которые сотрудничают с научными лабораториями лучших мировых Научных Центров.</p>
-                           <p class="strong" style="color: #000000;">Защитное покрытие кузова автомобиля также обладает и дополнительными преимуществами:</p>
-                           <ul class="b-qlist">
-                              <li><span style="line-height: 1.5em;">нет также и необходимости в полировке;</span></li>
-                              <li>к подобному покрытию грязь прилипает гораздо меньше, поэтому мыть автомобиль нужно будет в 3–4 раза реже.</li>
-                           </ul>
-                           <p><span style="line-height: 1.5em;">Защита лакокрасочного покрытия автомобиля происходит поэтапно и выполняется лучшими специалистами центра, обладающими значительным опытом в данной сфере работы. Наши мастера справятся с задачей любой сложности и работают с различными марками авто, учитывая их индивидуальные особенности.</span></p>
-                           <p>Если вас заинтересовало защитное покрытие автомобиля, можно сделать заявку на услугу с помощью сайта компании <span style="color:#3C75B3; line-height: 1.5em;"><strong>Advance Star</strong></span><span style="line-height: 1.5em;">, а также приехать к нам лично по адресу в Москве: ул. Мельникова д. 5. На все интересующие вопросы отвечают наши консультанты по телефону: +7 495 991 -39-69.</span></p>
-                           <p>Защита кузова автомобиля по плечу только опытному специалисту, а значит, следует доверять свой автомобиль только известным фирмам с отличными отзывами, какой и является <span style="color:#3C75B3; line-height: 1.5em;"><strong>Advance Star</strong></span><span style="line-height: 1.5em;">.</span></p>
-                           <p>Посетите наш центр, где вы получите сервис высокого уровня по самой выгодной цене в Москве и за ее пределами! У нас вас ждет качественная защита кузова автомобиля от царапин, которая не может оставить равнодушным водителя, любящего свою машину!</p>
-                           <h3>Стоимость защитного покрытия Advance</h3>
-                           <table class="pricelist-tbl">
+                              <article>
+                            <a name="anchor_link"></a>
+							
+							
+							
+							<p>Obnavljajuće poliranje vozila (ili kako se često naziva „abrazivno poliranje“) - 
+							jedna je od komponenti profesionalnog kozmetičkog održavanja vozila, koje mu pruža savršen izgled.</p>
+							
+							<p>Aktivna upotreba vozila povezana je sa stalnim negativnim utjecajem okoliša.
+							Kiša, prljavština, prašina, čađa iz plinova izgaranja a tragovi biljnog soka mogu 
+							i uništiti boju vašeg vozila. Primjena agresivnih alkalnih sredstava za čišćenje
+							(već u prvom kontaktu sa vašim vozilom), uništava lak na vozilu, a upotreba neprikladnih i starih, 
+							već korištenih krpa, djeluje na lak vašeg vozila kao brunsi papir. Nakon takvog čišćenja vaš automobil 
+							zahtijeva nužno poliranje ogrebotina, a to možete obaviti samo u središtu profesionalnog deteylinga. 
+							Ne samo da ćemo pažljivo ispolirti vaše vozilo, nego ćemo nakon toga zaštiti lak sa zaštitnim nano premazima, 
+							i tako ga sačuvati od daljnjih oštečenja.</p>
+							
+							<p><strong><span style="color: #3C75B3; ">Obnavljajuće (abrazivno) poliranje automobila u «Detailing Star» centru</span></strong></p>
+							
+							<br/>
+							<p><strong><span style="color: #3C75B3; ">Abrazivno poliranje vozila, zahtjevan je postupak i sastoji se od 4 koraka.</span></strong></p>
+							
+							<ul class="PaddingText_ul">
+							<li>
+							<p><strong><span style="color: #3C75B3; ">Korak 1. Priprema vozila za poliranje.</span></strong></p>
+							<p>Da bi vidjeli koliko su duboka oštećenja na boji, vozilo treba oprati na ispravan način, 
+							što podrazumjeva dvofazno pranje. Nakon pranja, zaštit ćemo plastične dijelove karoserije, 
+							a pomoću profesionalne rasvjete u našem centru, svaka ogrebotina biti će vidljiva, kako ju ne bi propustili ispraviti.
+							Posebnim sredstvom ukloniti ćemo oksidirani sloj, i sva tvrdokorna onečišćenja koja su se ulovila za vaše vozilo, 
+							kao što su bitumen, smola i ostalo. </p>
+							</li>
+							
+							
+						    <li>
+							<p><strong><span style="color: #3C75B3; ">Korak 2. Abrazivno poliranje ili obnova.</span></strong></p>
+							<p>Poliranje ogrebotina na automobilu, kao i uklanjanje raznih ogrebotina, zamučenja, oksidacije i 
+							oštećenja laka, koja nastaju kao posljedica izlaganja suncu, ptičijem izmetu, smolama i mehaničkim uzrocima.
+							Abrazivno poliranje se vrši uz pomoć profesionalne opreme i alata te vrhunskih pasti za poliranje. Svi alati 
+							i materijali koje koristimo, najviše su kvalitete, te su se do sada pokazali kao najbolje rješenje u svijetu.</p>
+							</li>
+							
+							
+							 <li>
+							<p><strong><span style="color: #3C75B3; ">Korak 3. Antihologramno poliranje.</span></strong></p>
+							<p>Ovaj korak jedan je od najvažnijih. Ova faza poliranja, dovodi lak vašeg automobila do vrhunskog sjaja, 
+							te se uklanjaju mikroogrebotine (hologram) , veličine 1-3 mikrona. U ovom koraku antihologramnog poliranja
+							vozilo dobiva maksimalan sjaj.</p>
+							</li>
+							
+							
+							
+						    <li>
+							<p><strong><span style="color: #3C75B3; ">Korak 4. Završna faza.</span></strong></p>
+							<p>Lak poliranog vozila, vrlo je osjetljiv i može lako i brzo izgubiti postignuti efekt zbog
+							bilo kojeg mehaničkog, kemijskog utjecaja ili izloženosti suncu. Kako bi sačuvali efekt postignut 
+							poliranjem, preporučujemo nanošenje zaštitnog nano premaza.</p>
+							</li>
+							
+
+							</ul>
+							
+							
+							
+							<h3>Cijena abrazivnog poliranja</h3>
+							
+							<p class="Padding_text_naslov">
+							Proces abrazivnog poliranja traje od par sati pa  do nekoliko dana (ovisno o stanju vašeg automobila). 
+							Kvalitetno i sigurno poliranje, je prava umjetnost i uči se dugi niz godina. Uostalom, debljina laka na modernim 
+							automobilima vrlo je tanka, i nestručnim pristupom, lako se uništi. Takav odgovoran i osjetljiv posao, možete povjeriti
+							samo pravim majstorima, koji ne samo da znaju koju brzinu okretaja alata moraju primjeniti za svaki pojedini dio vozila, 
+							već i osječaju koliki pritisak smiju primjeniti, kao i koje sredstvo za poliranje smiju koristiti ovisno o vrsti boje ili
+							dijela vozila na kojem se radi. Abrazivno poliranje je vrlo zahtjevan i odgovoran posao koji ne može biti jeftin. Stoga, 
+							nemojte samostalno eksperimentirati sa poliranjem ili povjeriti svoj automobil u nestručne ruke.
+							</p>
+							
+							
+							
+							<h3>Jamstva «Detailing Star»</h3>
+							
+							<p class="Padding_text_naslov">
+							Ako se želite sa zadovoljstvom voziti u dobro održavanom automobilu koji čak i
+							nakon nekoliko godina izgleda kao nov i privlači poglede, dođite na abrazivno poliranje u «Detailing Star»
+							centar. Jamčimo visoku kvalitetu izvršenih radova a zalog je ugled našeg profesionalnog deteylinga Centra! 
+							Dođite i vi i uvjerite se da smo najbolji.
+							</p>
+							
+							
+							   <table class="pricelist-tbl">
                               <thead>
                                  <tr>
-                                    <th>Защитное покрытие Advance</th>
-                                    <th>C класс</th>
-                                    <th>E класс</th>
-                                    <th>S класс и внедорожники</th>
+                                    <th rowspan="2">Poliranje vozila</th>
+                                    <th>Golf  Class </th>
+                                    <th>C Class </th>
+                                    <th>E Class </th>
+                                    <th>S class i terenci</th>
                                  </tr>
+								 
+								 
+								 
+								 <tr>
+                                     <th>(Golf, Audi A3, BMW 1, Mercedes A…)</th>
+                                    <th>(Mercedes C, Audi A4, BMW3…)</th>
+                                    <th>(Mercedes E, BMW 5, Audi A6…</th>
+                                    <th>(Mercedes S class, Audi A8, BMW 7, Range Rover…)</th>
+                                 </tr>
+								 
+								 
                               </thead>
                               <tbody>
                                  <tr>
-                                    <td style="text-align: center;">Кузов полностью</td>
-                                    <td>33 000 руб.</td>
-                                    <td>34 000 руб.</td>
-                                    <td>35 000 руб.</td>
+                                    <td style="text-align: center;">Cijena bez PDV</td>
+                                    <td>od 400 kn</td>
+                                    <td>od 480 kn</td>
+                                    <td>od 560 kn</td>
+                                    <td>od 720 kn</td>
                                  </tr>
+                                 
+                                  <tr>
+                                    <td style="text-align: center;">Cijena sa PDV</td>
+                                    <td>od 500 kn</td>
+                                    <td>od 600 kn</td>
+                                    <td>od 700 kn</td>
+                                    <td>od 920 kn</td>
+                                 </tr>
+                                 
+                                 
                               </tbody>
-      
                            </table>
-                           
-                           
-                           
-                           
-                <a name="anchor_link"></a>
+							
+							
 
  <div class="open_order_form">
 
@@ -832,7 +916,7 @@
                                     <div class="form-item">
                                         <label class="form-label">Ime :</label>
                                         <div class="controls">
-                                            <input class="form-text" type="text" name="name" placeholder="ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
+                                            <input class="form-text" type="text" name="name" placeholder="Ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
 <?php echo "<p class='errorForm'>$errName</p>"; ?>
                                         </div>
                                     </div>

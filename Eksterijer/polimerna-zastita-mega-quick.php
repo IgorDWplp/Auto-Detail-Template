@@ -200,7 +200,16 @@
             <link href="../assets/template/css/jquery.popup.css" rel="stylesheet" type="text/css"/>
             
             
-      
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-99576173-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
          
          </head>
          <body>
@@ -743,11 +752,9 @@
                <li itemscope="itemscope" class="B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb">   
                 <a class="B_crumb" itemprop="url" rel="Услуги" href="../Usluge.html"><span itemprop="title">Usluge</span></a> </li>
                <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb" >   
-                   <a class="B_crumb" itemprop="url" rel="Салон" href="/services/salon/"><span itemprop="title">Nano polimerni premazi Mega Quick Krytex</span></a>  </li>
-               <li class="B_lastCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">    
-               <li itemscope="itemscope" class="B_currentCrumb" itemtype="http://data-vocabulary.org/Breadcrumb">
-                  <p style="visibility: hidden;">Ремонт и восстановление кожи Advance Leather</p>
-               </li>
+                   <a class="B_lastCrumb" itemprop="url" rel="Салон" href=""><span itemprop="title">Nano polimerni premazi Mega Quick Krytex</span></a>  </li>
+            
+            
             </ul>
             <div class="wrap-h1">
                <div class="inner">
@@ -762,29 +769,69 @@
 </div>      
                 
                 
-            <article style="display: none;">
-            <p><img style="display: block; margin-left: auto; margin-right: auto;" src="../assets/template/images/nanoskin%20mega%20trend.jpg" alt="" width="525" height="363" /><br /><span style="line-height: 1.5em;">В состав <strong>MEGA TREND</strong> входят частицы неорганического углерода, вольфрамовой стали и базальта. Благодаря этому сочетанию, <strong>MEGA TREND</strong> представляет собой идеально прочное и долговечное покрытие, эффективно минимизирующее появление мелких царапин. После обработки <strong>MEGA TREND</strong>  ваше авто приобретет прекрасные водо- и грязеотталкивающие свойства, что позволит надолго сохранить его первозданную чистоту, зеркальность и блеск. <strong>MEGA TREND</strong> не удаляется водой, щелочью и прочими моющими средствами, а так же при мойке высоким давлением.</span></p>
-            <h3>Стоимость защитного покрытия Nanoskin MEGA TREND</h3>
-            <table class="pricelist-tbl">
-               <thead>
-                  <tr>
-                     <th>Защитное покрытие Nanoskin MEGA TREND</th>
-                     <th>C класс</th>
-                     <th>E класс</th>
-                     <th>S класс и внедорожники</th>
-                  </tr>
-               </thead>
-               <tbody>
-                  <tr>
-                     <td style="text-align: center;">Кузов полностью</td>
-                     <td>от 12 000 руб.</td>
-                     <td>от 14 000 руб.</td>
-                     <td>от 16 000 руб.</td>
-                  </tr>
-               </tbody>
-            </table>
+            <article>
+    
             
+			<p><strong>Nano keramička zaštita Krytex Mega Quick</strong> je zaštitni nano premaz, koji štiti lak Vašeg automobila.</p>
+			
+			<h3>Prednosti nano keramičke zaštite Krytex Mega Quick:</h3>
+			<ul class="PaddingText_ul">
+			<li><p>Brzo nanošenje</p></li>
+				<li><p>Automobil je spreman za korištenje odmah nakon nanošenja</p></li>
+					<li><p>Zaštita laka od izbljeđivanja na suncu, dodatna otpornost na štetno UV zračenje</p></li>
+						<li><p>Hidrofobni efekt</p></li>
+						<li><p>Izuzetan sjaj</p></li>
+						<li><p>rok trajanja 1mj</p></li>
+			</ul>
+			
        
+	   
+	   <h3>Cijena nanošenja nano zaštite Krytex Mega Quick</h3>
+	   
+	   
+	           <table class="pricelist-tbl">
+                              <thead>
+                                 <tr>
+                                    <th rowspan="2">Krytex 9H+</th>
+                                    <th>Golf  Class </th>
+                                    <th>C Class </th>
+                                    <th>E Class </th>
+                                    <th>S class i terenci</th>
+                                 </tr>
+								 
+								 
+								 
+								 <tr>
+                                    <th>(Golf, Audi A3, BMW 1, Mercedes A…)</th>
+                                    <th>(Mercedes C, Audi A4, BMW3…)</th>
+                                    <th>(Mercedes E, BMW 5, Audi A6…</th>
+                                    <th>(Mercedes S class, Audi A8, BMW 7, Range Rover…)</th>
+                                 </tr>
+								 
+								 
+                              </thead>
+                              <tbody>
+                                 <tr>
+                                    <td style="text-align: center;">Cijena bez PDV</td>
+                                    <td>300 kn</td>
+                                    <td>360 kn</td>
+                                    <td>400 kn</td>
+                                    <td>460 kn</td>
+                                 </tr>
+                                 
+                                  <tr>
+                                    <td style="text-align: center;">Cijena sa PDV</td>
+                                    <td>375 kn</td>
+                                    <td>450 kn</td>
+                                    <td>500 kn</td>
+                                    <td>575 kn</td>
+                                 </tr>
+                                 
+                                 
+                              </tbody>
+                           </table>
+	   
+	   
                        
      
 <a name="anchor_link"></a>
@@ -808,7 +855,7 @@
                                     <div class="form-item">
                                         <label class="form-label">Ime :</label>
                                         <div class="controls">
-                                            <input class="form-text" type="text" name="name" placeholder="ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
+                                            <input class="form-text" type="text" name="name" placeholder="Ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
 <?php echo "<p class='errorForm'>$errName</p>"; ?>
                                         </div>
                                     </div>

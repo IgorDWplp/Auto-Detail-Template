@@ -469,7 +469,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Eksterijer/zastita-folijom-SunTek.php">Zaštita folijom SunTek</a>       
 
@@ -481,7 +481,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Eksterijer/uklanjanje-ogrebotina.php">Uklanjanje ogrebotina</a>
 
@@ -493,7 +493,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Eksterijer/lakiranje-auta.php">Lakiranje auta</a>
 
@@ -557,7 +557,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Interijer/aromatizacija-interijera-auta.php">Aromatizacija interijera auta</a>
 
@@ -631,7 +631,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Autostakla/anti-termalna-zastita-stakla-folijom-SunTek.php">Anti termalna zaštita stakla folijom SunTek</a>
 
@@ -739,13 +739,15 @@
                      
                      <div class="content">
                         <ul class="B_crumbBox">
-                           <li class="B_firstCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">         <a class="B_homeCrumb" itemprop="url" rel="Home" href="../index.html"><span itemprop="title">Naslovna</span></a>     </li>
-                           <li itemscope="itemscope" class="B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb">      <a class="B_crumb" itemprop="url" rel="Услуги" href="../Usluge.html"><span itemprop="title">Usluge</span></a>  </li>
-                           <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb" >      <a class="B_crumb" itemprop="url" rel="Салон" href="/services/salon/"><span itemprop="title">Uklanjanje ogrebotina</span></a>  </li>
-                           <li class="B_lastCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">    
-                           <li itemscope="itemscope" class="B_currentCrumb" itemtype="http://data-vocabulary.org/Breadcrumb">
-                              <p style="visibility: hidden;">Ремонт и восстановление кожи Advance Leather</p>
+                           <li class="B_firstCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">        
+                               <a class="B_homeCrumb" itemprop="url" rel="Home" href="../index.html"><span itemprop="title">Naslovna</span></a>     </li>
+                           <li itemscope="itemscope" class="B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb">      
+                               <a class="B_crumb" itemprop="url" rel="Услуги" href="../Usluge.html"><span itemprop="title">Usluge</span></a>  
                            </li>
+                           <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb">      
+                               <a class="B_lastCrumb" itemprop="url" rel="Салон" href=""><span itemprop="title">Uklanjanje ogrebotina</span></a></li>
+                           
+                         
                         </ul>
                         <div class="wrap-h1">
                            <div class="inner">
@@ -763,34 +765,9 @@
                          
                              
                        <article style="display: none;">
-                           <p>Кузов каждого автомобиля – его основа и, пожалуй, главная деталь. Это визитная карточка автомобиля. Однако, состояние многих автомобильных дорог таково, что не обязательно попадать в аварию, чтобы испортить свою машину. Лако-красочное покрытие повреждается налипающими смолами, мелкоабразивными частицами пыли и грязи, да и вмятины, царапины и сколы — обычная картина при эксплуатации. Пресловутые дешевые мойки дорисовывают картину пагубного воздействия на лакокрасочное покрытие кузова. Именно поэтому владельцы стремятся надежно защитить автомобиль от любых возможных повреждений, минимизируя риск финансовых потерь в будущем.</p>
-                           <p>Обработка кузова на заводе выполняется в недостаточной мере либо подобной защиты нет вообще. Очень важно самостоятельно позаботиться об этом пункте безопасности, ведь ЛКП кузова без специальной защиты будет неизбежно утоньшаться, даже при самой безопасной и бережной полировке.</p>
-                           <p><span style="color:#3C75B3; line-height: 1.5em;"><strong>Антигравийная обработка кузова</strong></span><span style="line-height: 1.5em;"> от Центра профессионального детейлинга <span style="color:#3C75B3; line-height: 1.5em;"><strong>Advance Star</strong> </span><span style="line-height: 1.5em;">– это надежная и долговечная защита вашего автомобиля с гарантией. Вложенные в такую услугу средства помогут сберечь его в первозданном виде на долгое время и впоследствии продать автомобиль практически по его первоначальной стоимости. Защитный слой будет успешно отражать агрессивное воздействие пыли, грязи, химических реагентов, соли, солнца, наледи, птичьего помета, камней и гравия, тем самым сохраняя лакокрасочное покрытие во всем его великолепии. Наши мастера применяют современные технологии и только качественные материалы, что обеспечивает высокий уровень работы и всегда идеальный результат.</span></span></p>
-                           <p><span style="line-height: 1.5em;"><br /><img style="display: block; margin-left: auto; margin-right: auto;" src="../assets/template/images/Venture%20Shield.jpg" alt="" width="640" height="427" /></span></p>
-                           <p>Мы используем специальные антигравийные пленки, которые имеют оптимальную толщину, измеряемую в микронах. Это значит, что внешне защитная пленка абсолютно незаметна. При этом ее работу по защите вы увидите сразу. Подобная обработка автомобиля обеспечит сохранение заводского покрытия и предотвратит необходимость полной покраски авто. Более того, пленка придаст дополнительный блеск тем элементам, на которые установлена.</p>
-                           <p><span style="color:#3C75B3; line-height: 1.5em;"><strong>Антигравийная обработка </strong></span><span style="line-height: 1.5em;">автомобиля в первую очередь обеспечивает защитой наиболее уязвимые зоны. В идеале, специалисты рекомендуют одевать в такую защиту всю машину, ведь это позволит содержать ее в идеальном состоянии пять и более лет. Протекция отдельных частей позволит избежать даже косметического ремонта кузова автомобиля. Важно защитить те части, которые являются наиболее уязвимыми и подверженными повреждениям и сколам:</span></p>
-                           <ul>
-                              <li>капот,</li>
-                              <li>бампер,</li>
-                              <li>фары,</li>
-                              <li>зоны под ручками,</li>
-                              <li>пороги,</li>
-                              <li>зеркала,</li>
-                              <li>передние крылья,</li>
-                              <li>крышка багажника.</li>
-                           </ul>
-                           <p><span style="color:#3C75B3; line-height: 1.5em;"><strong>Антигравийная обработка кузова</strong> </span><span style="line-height: 1.5em;">подразумевает установку надежной защитной пленки, которая имеет ряд важных преимуществ:</span></p>
-                           <ul>
-                              <li>хорошо моется,</li>
-                              <li>не требует специального ухода,</li>
-                              <li>устойчива к химическим реагентам,</li>
-                              <li>прекрасно полируется,</li>
-                              <li>не приобретает желтый оттенок со временем,</li>
-                              <li>после демонтажа ЛКП автомобиля выглядит как новое.</li>
-                           </ul>
-                           <p>С учетом превосходных протекционных свойств такая обработка позволяет на высшем уровне противодействовать химическим и механическим влияниям окружающей среды. Она избавит вас от лишних трат на многочисленные косметические ремонты с восстановлением светотехники и лакокрасочного покрытия, позволит сэкономить деньги и время, а ваша машина всегда будет находиться в надлежащем состоянии.</p>
-                           <p>Для обработки мы предлагаем только качественные пленки и материалы, которые полностью совместимы с «родным» заводским покрытием автомобиля. Они обладают эластичностью и эффектом «самозалечивания», механически и термически прочны, полностью соответствуют строгим европейским стандартам качества.</p>
-                           <p>Процедура выполняется строго по определенному технологическому процессу, что гарантирует качество и долговечность нанесенной пленки. В нашем салоне при обработке каждого авто применяется только лучшая антигравийная пленка, известная своим высоким качеством и непревзойденными защитными свойствами во всем мире.</p>
+                    
+                     
+                           
                            <a name="anchor_link"></a> 
                            
                            

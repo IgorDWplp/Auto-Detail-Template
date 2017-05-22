@@ -485,7 +485,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display:none;">
 
                                             <a href="../Eksterijer/zastita-folijom-SunTek.php">Zaštita folijom SunTek</a>       
 
@@ -497,7 +497,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display:none;">
 
                                             <a href="../Eksterijer/uklanjanje-ogrebotina.php">Uklanjanje ogrebotina</a>
 
@@ -509,7 +509,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display:none;">
 
                                             <a href="../Eksterijer/lakiranje-auta.php">Lakiranje auta</a>
 
@@ -573,7 +573,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display:none;">
 
                                             <a href="../Interijer/aromatizacija-interijera-auta.php">Aromatizacija interijera auta</a>
 
@@ -647,7 +647,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display:none;">
 
                                             <a href="../Autostakla/anti-termalna-zastita-stakla-folijom-SunTek.php">Anti termalna zaštita stakla folijom SunTek</a>
 
@@ -771,12 +771,11 @@
   
   
     <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb" >
-      <a class="B_crumb" itemprop="url" rel="Салон" href="/services/salon/"><span itemprop="title">Poliranje farova</span></a>
+      <a class="B_crumb" itemprop="url" rel="Салон" href=""><span itemprop="title">Poliranje farova</span></a>
   </li>
  
     <li class="B_lastCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
-    <li itemscope="itemscope" class="B_currentCrumb" itemtype="http://data-vocabulary.org/Breadcrumb"><p style="visibility: hidden;">Ремонт и восстановление кожи Advance Leather</p></li>
-
+ 
   
  
  
@@ -802,54 +801,75 @@
 </div>        
                          
                          
-                       <article style="display: none;">
-			<p style="text-align: center;"><img src="../assets/template/images/bron.jpg" alt="" /></p>
-<p><strong><span style="color: #7030a0;">Бронирование стекол</span></strong> укрепляющими пленками существенно снижает уровень риска. В критических ситуациях (ДТП, вандализм, природные катаклизмы) стекло автомобиля представляет собою повышенную опасность.<br /><br />Защитная пленка для фар <strong>SunTek, 3M VentureShield</strong>, с наивысшими физико-механическими и оптическими показателями, предохраняет от появления микросколов и царапин, обеспечивая максимальную эффективность освещения.<br /><br />Использование защитной пленки позволяет не прибегать к частой полировке фар. Процедура ее замены не требует много времени.<br /><br /><strong>Преимущества <span style="color: #7030a0;">бронирования стекол и фар</span>:</strong></p>
-<ul>
-<li><span style="line-height: 1.5em;">бронирование максимально защищает от сколов;</span></li>
-<li><span style="line-height: 1.5em;">предохраняет от вандализма;</span></li>
-<li><span style="line-height: 1.5em;">обеспечивает защиту от проникновения в салон.<br /></span></li>
-</ul>
-<h3>Стоимость бронирования стекол и фар</h3>
-<table class="pricelist-tbl">
-<thead>
-<tr><th>Бронирование стекол и фар</th><th>C класс</th><th>E класс</th><th>S класс и внедорожники</th></tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">Заднее стекло</td>
-<td>от 4 000 руб.</td>
-<td>от 4 500 руб.</td>
-<td>от 5 000 руб.</td>
-</tr>
-<tr>
-<td style="text-align: center;">Боковое стекло</td>
-<td>от 2 000 руб.</td>
-<td>от 2 100 руб.</td>
-<td>от 2 200 руб.</td>
-</tr>
-<tr>
-<td style="text-align: center;">Форточка</td>
-<td>от 1 100 руб.</td>
-<td>от 1 200 руб.</td>
-<td>от 1 300 руб.</td>
-</tr>
-<tr>
-<td style="text-align: center;">Бронирование фар</td>
-<td>от 4 000 руб.</td>
-<td>от 4 500 руб.</td>
-<td>от 5 000 руб.</td>
-</tr>
-</tbody>
-</table>
+<article>
+					   
+
+<p>
+Idealno stanje farova i čistoća, je ključ dobrog izgleda vašeg automobila i sigurnosti na cesti. 
+</p>
+
+
+<p class="Padding_text_naslov">
+Automobili koji se koriste, nakon nekog vremena, rijetko se mogu pohvaliti kristalno čistim svjetlima.
+ Utjecaj vanjskih faktora uzrokuje pojavljivanje ogrebotina, oštećenja i zamučenja farova.
+</p>
+					   
+		
+<p class="Padding_text_naslov">
+Poliranje farova uklanja gore navedeno i farovi dobivaju prvobitni izgled. Moderni se farovi zbog sigurnosti na cesti, 
+rade od polikarbonata, koji ima čvrsti vanjski sloj. On prima na sebe sve mehaničke udarce i postepeno gubi svoj sjaj i 
+postaje mutan. Dok polikarbonatni zaštitni sloj nije do kraja istrošen, najefikasniji postupak je poliranje farova.
+</p>
 
 
 
+<p class="Padding_text_naslov">
+Nakon više poliranja zaštitni polikarbonatni sloj može se istrošiti. Zbog toga preporučujemo nakon poliranja, na farove staviti zaštitnu foliju.
+</p>
+		
 
-
-
-
-
+      <table class="pricelist-tbl">
+                              <thead>
+                                 <tr>
+                                    <th rowspan="2">Poliranje farova (2 komada)</th>
+                                    <th>Golf  Class </th>
+                                    <th>C Class </th>
+                                    <th>E Class </th>
+                                    <th>S class i terenci</th>
+                                 </tr>
+								 
+								       <tr>
+                                   
+                                  <th>(Golf, Audi A3, BMW 1, Mercedes A…)</th>
+                                    <th>(Mercedes C, Audi A4, BMW3…)</th>
+                                    <th>(Mercedes E, BMW 5, Audi A6…</th>
+                                    <th>(Mercedes S class, Audi A8, BMW 7, Range Rover…)</th>
+                                 </tr>
+								 
+								 
+                              </thead>
+                              <tbody>
+                                 <tr>
+                                    <td style="text-align: center;">Cijena bez PDV</td>
+                                    <td>od 240 kn</td>
+                                    <td>od 320 kn</td>
+                                    <td>od 320 kn</td>
+                                    <td>od 400 kn</td>
+                                 </tr>
+                                 
+                                  <tr>
+                                    <td style="text-align: center;">Cijena sa PDV</td>
+                                     <td>od 300 kn</td>
+                                     <td>od 400 kn</td>
+                                     <td>od 400 kn</td>
+                                     <td>od 500 kn</td>
+                                 </tr>
+                                 
+                                 
+                              </tbody>
+                           </table>		
+		
+		
 
 
 <a name="anchor_link"></a>
@@ -877,7 +897,7 @@
                                     <div class="form-item">
                                         <label class="form-label">Ime :</label>
                                         <div class="controls">
-                                            <input class="form-text" type="text" name="name" placeholder="ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
+                                            <input class="form-text" type="text" name="name" placeholder="Ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
 <?php echo "<p class='errorForm'>$errName</p>"; ?>
                                         </div>
                                     </div>

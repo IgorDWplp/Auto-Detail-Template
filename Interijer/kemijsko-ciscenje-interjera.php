@@ -499,7 +499,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Eksterijer/zastita-folijom-SunTek.php">Zaštita folijom SunTek</a>       
 
@@ -511,7 +511,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;"> 
 
                                             <a href="../Eksterijer/uklanjanje-ogrebotina.php">Uklanjanje ogrebotina</a>
 
@@ -523,7 +523,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Eksterijer/lakiranje-auta.php">Lakiranje auta</a>
 
@@ -587,7 +587,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Interijer/aromatizacija-interijera-auta.php">Aromatizacija interijera auta</a>
 
@@ -661,7 +661,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Autostakla/anti-termalna-zastita-stakla-folijom-SunTek.php">Anti termalna zaštita stakla folijom SunTek</a>
 
@@ -775,17 +775,17 @@
 
                            <li class="B_firstCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">         <a class="B_homeCrumb" itemprop="url" rel="Home" href="../index.html"><span itemprop="title">Naslovna</span></a>     </li>
 
-                           <li itemscope="itemscope" class="B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb">      <a class="B_crumb" itemprop="url" rel="Услуги" href="../services.html"><span itemprop="title">Usluge</span></a>  </li>
-
-                           <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb" >      <a class="B_crumb" itemprop="url" rel="Салон" href="/services/salon/"><span itemprop="title">Kemijsko čišćenje interijera</span></a>  </li>
-
-                           <li class="B_lastCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">    
-
-                           <li itemscope="itemscope" class="B_currentCrumb" itemtype="http://data-vocabulary.org/Breadcrumb">
-
-                              <p style="visibility: hidden;">Ремонт и восстановление кожи Advance Leather</p>
-
+                           <li itemscope="itemscope" class="B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb">      
+                               <a class="B_crumb" itemprop="url" rel="Услуги" href="../Usluge.html"><span itemprop="title">Usluge</span></a> 
                            </li>
+
+                           <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb" >     
+                               <a class="B_lastCrumb" itemprop="url" rel="Салон" href=""><span itemprop="title">Kemijsko čišćenje interijera</span></a>  
+                           </li>
+
+                      
+
+                        
 
                         </ul>
 
@@ -802,31 +802,97 @@
                          
                          
                          
-                                                 <div style="text-align: center; width: 50%; padding-bottom: 10px;">
+ <div style="text-align: center; width: 50%; padding-bottom: 10px;">
 <?php echo "<h1 class='errorForm'>$warning</h1>"; ?>
-                        </div>
+</div>
 
-                        <article style="display: none;">
+                         
+                         
+                        <article>
 
-                           <p style="text-align: center;"><iframe src="http://www.youtube.com/embed/QeYHzEpKm3Q" frameborder="0" width="560" height="315"></iframe></p>
+                           <p style="text-align: center;"><!--iframe src="http://www.youtube.com/embed/QeYHzEpKm3Q" frameborder="0" width="560" height="315"></iframe--></p>
+                           <p>
+                               Lijepo je  voziti se u čistom, svježem, mirisnom automobilu i uz to biti siguran
+                               da je kemijsko čišćeneje napravljeno kvalitetno i sredstvima koja su sigurna za zdravlje. 
+                               To su glavni kriteriji na koje trebate obratiti pažnju kada dajete vašeg ljubimca na kemijsko čišćenje. 
+                               Uštedite na bilo čemu, samo ne na kemijskom čišćenju.
+							
+							   
+							  
+  
+                           </p>
+						   
+						   
+						    <p class="Padding_text_naslov">
+						    Jeftino kemijsko čišćenje, može izazvati alergijske reakcije i druge negativne utjecaje na zdravlje.
+						   </p>
+                         
+                           
+                           <p class="Padding_text_naslov">
+                               Iz tog razloga, profesionalni detailing centar neće koristiti jeftina i 
+                               toksična sredstva za kemijsko čišćenje.  Između najopasnijih sastojaka jeftinih sredstava za 
+                               kemijsko čišćenje nalazi se kemijski spoj klora i formaldehida, koji može zazivati alergijske reakcija i 
+                               druge opasne poteškoće, kod onih koji borave u tako očišćenom automobilu.
+                           </p>
+                           
+                              <p class="Padding_text_naslov">
+						   Jeftina sredstva za čišćenje unutrašnjosti ima izvrsna svojstva za čišćenje, 
+                               ali ih je gotovo nemoguće u potpunosti ukloniti iz presvlaka. 
+                           </p>
+                           
+                           
+                           <p><strong><span style="color: #3C75B3;">
+                               Kome povjeriti kemijsko čišćenje vašeg automobila?
+                          </span></strong>
+						  
+						  <br/>
+						   Povjerite svoje vozilo samo detailing centrima koji garantiraju kvalitetno i bezopasno čišćenje.
+						  
+						  </p>
+                           
+                    
+                           
+                              <p><strong><span style="color: #3C75B3;">Zašto kemijsko čišćenje vašeg vozila možete povjeriti Detailig Star centru?
+							   </span></strong>
+							   <br/>
+							    U Detailing Star centru, uvijek je na prvom mjestu kvaliteta i sigurnost.
+                               Koristimo samo „zelenu komiju“, odnosno biorazgradiva sredstva za čišćenje, najboljih europskih proizvođača. 
+                               Kemijsko čišćenje kod nas – jamstvo je idealno čistog interijera i bezopasnog za zdravlje čovjeka i okoliša.
+							   
+							   </p>
+                           
+                           
+                       
+                           
+                           
+                              <p class="Padding_text_naslov">
+                               Nako kemijskog čišćenja interijera vašeg vozila, preporučujemo nanos zaštitnih 
+                               nano premaza na tkaninu, kožu, plastiku i ostale elemente, tako da in zaštite. 
+                           </p>
+                           
+                           
+                           
+                              <p class="Padding_text_naslov">
+                                Koliko god bili pažljivi,  nećete moći sačuvati unutrašnjost 
+                                vašeg automobila od kontaminacije, pijeska, soli, mrvica, prolivene tekućine a 
+                                i ostalih nečistoča koje unosite u automobil vi ili ulaze kroz prozore ili ventilaciju. 
+                                Naši zaštitni premazi značajno će produžiti osječaj svježine i čistoće u vašem automobilu.
+                           </p>
 
-                           <p><strong><span style="color: #7030a0;">Advance Interior</span></strong> — решение, существенно облегчающее уход за отделкой салона автомобиля (в частности, кожей и алькантарой светлых оттенков). Уникальный состав был разработан швейцарскими специалистами с использованием природных смол. <br /><br />В результате обработки салона по технологии <strong><span style="color: #7030a0;">Advance Interior</span></strong> появляется прозрачная незаметная пленка, не пропускающая загрязнения, задерживающая любые жидкости, не позволяющая неприятным запахам проникать в материал отделки. После этой процедуры любое загрязнение легко устраняется влажной салфеткой, а жидкости скатываются в «ртутные шарики» – уборка салона становится крайне простым занятием. <br /><br />Обработку салона с помощью <strong><span style="color: #7030a0;">Advance Interior</span></strong> рекомендуется проводить ежегодно, чтобы максимально продлить его идеальное состояние.<br /><br /><strong>Преимущества <span style="color: #7030a0;">Advance Interior</span>:</strong></p>
+                           <h3>Koliko košta kemijsko čišćenje?</h3>
+                           
+                        
+                           
+                              <p class="Padding_text_naslov">
+						   Zapamtite: kvalitetno, sigurno i za zdravlje bezopasno kemijsko čišćenje unutrašnjost automobila ne 
+                               može biti jeftino. To je mukotrpan proces koji zahtijeva veliko iskustvo, vrijeme i skupa sredstva za čišćenje, 
+                               kao i profesionalnu opremu. Cijene variraju ovisno o tipu karoserije i stupnju onečišćenja. Nemojte škrtariti na 
+                               sebi i zdravlju svojih bližnjih. Priuštite sebi najbolje. Obećavamo - da će vam se svidjeti, a vi ćete postati naš klijent na dugi niz godina!
+                           </p>
 
-                           <ul>
+                       
 
-                              <li>подходит для всех типов материалов отделки (кожа, алькантара, ворс, ткань);</li>
-
-                              <li>не пропускает влагу и запахи;</li>
-
-                              <li>препятствует глубокому окрашиванию; </li>
-
-                              <li>является экологически безопасным;</li>
-
-                              <li>существенно обегчает уход за салоном.</li>
-
-                           </ul>
-
-                           <h3>Стоимость защитного покрытия Advance Interior</h3>
+                        
 
                            <table class="pricelist-tbl">
 
@@ -834,13 +900,30 @@
 
                                  <tr>
 
-                                    <th>Защитное покрытие Advance Interior</th>
+                                    <th rowspan="2">Kemijsko čišćenje</th>
 
-                                    <th>C класс</th>
+                                    <th>Golf  Class</th>
 
-                                    <th>E класс</th>
+                                    <th>C Class</th>
 
-                                    <th>S класс и внедорожники</th>
+                                    <th>E Class</th>
+                                    
+                                      <th>S class i terenci</th>
+
+                                 </tr>
+                                 
+                                 
+                                     <tr>
+
+                                  
+
+                                    <th>(Golf, Audi A3, BMW 1, Mercedes A…)</th>
+
+                                    <th>(Mercedes C, Audi A4, BMW3…)</th>
+
+                                    <th>(Mercedes E, BMW 5, Audi A6…</th>
+                                    
+                                    <th>(Mercedes S class, Audi A8, BMW 7, Range Rover…)</th>
 
                                  </tr>
 
@@ -850,63 +933,37 @@
 
                                  <tr>
 
-                                    <td style="text-align: center;">Салон полностью</td>
+                                    <td style="text-align: center;">Cijena bez PDV</td>
 
-                                    <td>от 11 000 руб.</td>
+                                    <td>od 600 kn</td>
 
-                                    <td>от 13 000 руб.</td>
+                                    <td>od 700 kn</td>
 
-                                    <td>от 15 000 руб.</td>
-
-                                 </tr>
-
-                                 <tr>
-
-                                    <td style="text-align: center;">Напольное покрытие</td>
-
-                                    <td>от 5 500 руб.</td>
-
-                                    <td>от 6 500 руб.</td>
-
-                                    <td>от 8 000 руб.</td>
+                                    <td>od 800 kn</td>
+                                    
+                                    <td>od 900 kn</td>
 
                                  </tr>
 
                                  <tr>
 
-                                    <td style="text-align: center;">Переднее сиденье</td>
+                                    <td style="text-align: center;">Cijena sa PDV</td>
 
-                                    <td>1 700 руб.</td>
+                                    <td>od 750 kn</td>
 
-                                    <td>2 200 руб.</td>
+                                    <td>od 875 kn</td>
 
-                                    <td>2 700 руб.</td>
-
-                                 </tr>
-
-                                 <tr>
-
-                                    <td style="text-align: center;">Задний диван</td>
-
-                                    <td>3 500 руб.</td>
-
-                                    <td>4 000 руб.</td>
-
-                                    <td>4 500 руб.</td>
+                                    <td>od 1.000 kn</td>
+                                    
+                                    <td>od 1.125 kn</td>
 
                                  </tr>
 
-                                 <tr>
+                           
 
-                                    <td style="text-align: center;">Багажник</td>
+                         
 
-                                    <td>2 300 руб.</td>
-
-                                    <td>2 800 руб.</td>
-
-                                    <td>3 500 руб.</td>
-
-                                 </tr>
+                          
 
                               </tbody>
 
@@ -934,7 +991,7 @@
                                     <div class="form-item">
                                         <label class="form-label">Ime :</label>
                                         <div class="controls">
-                                            <input class="form-text" type="text" name="name" placeholder="ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
+                                            <input class="form-text" type="text" name="name" placeholder="Ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
 <?php echo "<p class='errorForm'>$errName</p>"; ?>
                                         </div>
                                     </div>

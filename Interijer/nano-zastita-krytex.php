@@ -218,41 +218,7 @@
             <script src="../assets/template/js/jquery.popup.js" type="text/javascript"></script>
             <link href="../assets/template/css/jquery.popup.css" rel="stylesheet" type="text/css"/>
 
-        <script type="text/javascript">
-            var site_base_url = '/';
-            var shkOpt = jQuery.extend(shkOptDefault, {prodCont: 'div.shk-item', orderFormPage: '456', orderFormPageUrl: '/checkout/', changePrice: true, flyToCart: 'nofly', style: '0', noLoader: true, animCart: false, psn: 'MuVnh4ijyePwqI3jWvQVhg=='
-                , shkHelper: '<div id="shk_prodHelper" style="border-radius: 10px; -o-border-radius:10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px;">'
-
-                        + '<div id="shk_prodHelperName"></div>'
-
-                        + '<div class="shs-count" id="shk_prodCount">'
-
-                        + '<input type="text" size="2" name="count" value="1" maxlength="3" />'
-
-                        + '</div>'
-
-                        + '<div class="helperButtonsBl">'
-
-                        + '<button class="shk-but" id="shk_confirmButton">ОК</button>'
-
-                        + '<button class="shk-but" id="shk_cancelButton">Отмена</button>'
-
-                        + '</div>'
-
-                        + '</div>'
-
-            });
-
-            SHK.data = {price_total: 0, items_total: 0, items_unique_total: 0, ids: []};
-
-            jQuery(document).bind('ready', function () {
-
-                jQuery(shkOpt.prodCont).shopkeeper();
-
-            });
-
-        </script>
-
+  
 
 
     </head>
@@ -484,7 +450,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Eksterijer/zastita-folijom-SunTek.php">Zaštita folijom SunTek</a>       
 
@@ -496,7 +462,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Eksterijer/uklanjanje-ogrebotina.php">Uklanjanje ogrebotina</a>
 
@@ -508,7 +474,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Eksterijer/lakiranje-auta.php">Lakiranje auta</a>
 
@@ -572,7 +538,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;">
 
                                             <a href="../Interijer/aromatizacija-interijera-auta.php">Aromatizacija interijera auta</a>
 
@@ -646,7 +612,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display: none;"> 
 
                                             <a href="../Autostakla/anti-termalna-zastita-stakla-folijom-SunTek.php">Anti termalna zaštita stakla folijom SunTek</a>
 
@@ -768,19 +734,19 @@
 
                             <li itemscope="itemscope" class="B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb">
 
-                                <a class="B_crumb" itemprop="url" rel="Услуги" href="../services.html"><span itemprop="title">Usluge</span></a>
+                                <a class="B_crumb" itemprop="url" rel="Услуги" href="../Usluge.html"><span itemprop="title">Usluge</span></a>
 
                             </li>
 
                             <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb" >
 
-                                <a class="B_crumb" itemprop="url" rel="Салон" href="/services/salon/"><span itemprop="title">Nano zaštita interijera auta</span></a>
+                                <a class="B_lastCrumb" itemprop="url" rel="Салон" href=""><span itemprop="title">Nano zaštita interijera auta</span></a>
 
                             </li>
 
-                            <li class="B_lastCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+                 
 
-                            <li itemscope="itemscope" class="B_currentCrumb" itemtype="http://data-vocabulary.org/Breadcrumb"><p style="visibility: hidden;">Ремонт и восстановление кожи Advance Leather</p></li>
+                           
 
                         </ul>  
 
@@ -806,37 +772,43 @@
 <?php echo "<h1 class='errorForm'>$warning</h1>"; ?>
                         </div>
 
-                        <article style="display: none;">
+                        <article>
 
-                            <p style="text-align: center;"> </p>
+                         
 
-                            <p><span style="line-height: 1.5em;">Как приятно ездить в чистом, свежем, благоухающем авто ... При этом быть уверенным, что </span><span style="line-height: 1.5em;">химчистка салона выполнена качественно и безопасно для здоровья. Сегодня это главные </span><span style="line-height: 1.5em;">критерии, на которые нужно обращать внимание, отдавая автомобиль в химчистку. Сэкономьте на </span><span style="line-height: 1.5em;">чем угодно, но только не на химчистке. </span></p>
+                              <p>
+                                <strong><span style="color: #3C75B3;">Nano zaštita interijera u „Detailing Star“ centru</strong></span>, uvelike olakšava brigu o unutrašnjosti automobila 
+                                (pogotovo ako je unutrašnjost napravljena od kože ili Alcantara kože u svijetlim tonovima). 
+                              </p>
 
-                            <p><strong><span style="line-height: 1.5em;">Химчистка салона "задешево" может привести к аллергии и онкозаболеваниям</span></strong></p>
+                              
+                              <p class="Padding_text_naslov">
+                                  Nanošenjem zaštitnog sloja na interijer vašeg vozila, spriječit ćemo
+                                  upijanje nečistoče ili tekućine, a svaka nečistoća može biti lako uklonjena samo 
+                                  vlažnom krpom. Nakon ovog postupka čišćenje postaje vrlo lako.
+                              </p>
+                              
+                              
+                               <p class="Padding_text_naslov">
+                                  Zaštitu interijera vozila preporučujemo raditi minimalno jednom godišnje, da bi maksimalno sačuvali unutrašnjost.
+                              </p>
+                              
+                              
+                              <p> <strong><span style="color: #3C75B3;">Prednosti nano zaštite u „Detaling Star“ centru</span></strong></p>
+							  
+							
+                              
+                           
+                              <ul class="PaddingText_ul" style="margin-top:-25px;">
+							  <li><p>Odgovara za sve vrste materijala (koža, alcantara, tkanina);</p></li>
+                                  <li> <p>Ne propušta vlagu i mirise;</p> </li>
+                                  <li><p>Sprječava upijanje boje sa odječe u kožu i tkaninu;</p></li>
+                                  <li><p>Ekološki je</p></li>
+                                  <li><p>Značajno olakšava brigu o interijeru vašeg vozila</p></li>
+                              </ul>
+                              
 
-                            <p>Многие автомойки и автосервисы Москвы и матушки России, гордо назвав себя "детейлинг-<span style="line-height: 1.5em;">центрами", к сожалению, так и не поняли основ детейлинг-культуры. Это прежде всего - </span><span style="line-height: 1.5em;">уважение к себе и своим клиентам. По этой причине ни один настоящий профессиональный </span><span style="line-height: 1.5em;">детейлинг-центр не станет использовать для химчистки дешевые токсичные средства. Один из </span><span style="line-height: 1.5em;">таких ядовитых препаратов стал настолько популярным в России, что санитарным службам уже </span><span style="line-height: 1.5em;">пора бить тревогу. Речь о средстве, которое производится в Польше, при этом компоненты, </span><span style="line-height: 1.5em;">содержащиеся в его составе - запрещены к ввозу в Евросоюз! Среди самых опасных - соединения </span><span style="line-height: 1.5em;">хлора и формальдегидов, которые в "лучшем" случае вызывают аллергические реакции, в худшем </span><span style="line-height: 1.5em;">- хроническую аллергию и онкологические заболевания у всех, кто ездит в этом авто. Стоит это </span><span style="line-height: 1.5em;">чистящее средство - 1700 рублей за 20 литров. И это концентрат. Отсюда и низкая стоимость </span><span style="line-height: 1.5em;">химчистки салона автомобиля в таких "дешевых" центрах. </span></p>
-
-                            <p>Дешевое средство для химчистки салона обладает отличными чистящими свойствами, но его <span style="line-height: 1.5em;">практически невозможно полностью удалить из материалов обивки. Некоторые даже не </span><span style="line-height: 1.5em;">пытаются это делать. Просто наносят, протирают влажной тряпкой и дают высохнуть. Не </span><span style="line-height: 1.5em;">утруждая себя даже попробовать вытянуть опасный препарат пылесосом. Т.е по сути, после </span><span style="line-height: 1.5em;">чистки он практически целиком остается в салонной обивке и вкупе с постоянной влажностью в </span><span style="line-height: 1.5em;">салоне, работой воздуховодов - постепенно отравляет здоровье пассажиров и водителя.</span></p>
-
-                            <p style="text-align: center;"><img src="../assets/template/images/ximch.jpg" alt="" width="560" height="373" /></p>
-
-                            <p><strong><span style="line-height: 1.5em;">Что делать? Кому доверить химчистку салона автомобиля?</span></strong></p>
-
-                            <p><span style="line-height: 1.5em;">Доверять нужно репутации детейлинг-центра и адекватной цене. Лучше заплатить один раз за </span><span style="line-height: 1.5em;">качество и безопасность, чем потом искать настоящих профессионалов и платить им за повторную </span><span style="line-height: 1.5em;">чистку и удаление вредоносной химии из салона автомобиля.</span></p>
-
-                            <p><strong><span style="line-height: 1.5em;">Почему салон автомобиля можно смело доверить </span></strong><span style="color:#3C75B3; line-height: 1.5em;"><strong>Advance Star</strong></span><span style="line-height: 1.5em;">?</span></p>
-
-                            <p><span style="line-height: 1.5em;">В Центре профессионального детейлинга </span><span style="color:#3C75B3; line-height: 1.5em;"><strong>Advance Star</strong> </span><span style="line-height: 1.5em;">на первом месте всегда - высокое качество и безопасность. Мы работаем только с "зеленой химией", т.е. биоразлагаемыми препаратами известных европейских и американских брендов, таких как LeTech, Chemical Guys, Nanoskin. При этом мы все равно стараемся максимально удалить остатки препаратов обработки с обивки и других поверхностей салона ваших автомобилей. Химчистка у нас - это гарантия идеально чистого салона, практически сухого и абсолютно безопасного для здоровья человека и окружающей среды. Только если у вас тканевый салон с существенными загрязнениями - придется подождать пока салон просохнет. Во всех других случаях автомобиль можно забрать уже через 8-10 часов усердной, щепетильной работы наших детейлеров.</span><span style="line-height: 1.5em;"> </span></p>
-
-                            <p><span style="line-height: 1.5em;"><span style="line-height: 1.5em;">Еще один приятный бонус проведения химчистки в </span></span><span style="color:#3C75B3; line-height: 1.5em;"><strong>Advance Star</strong> </span><span style="line-height: 1.5em;">- бесплатная обработка всех </span><span style="line-height: 1.5em;">поверхностей салона высококачественными защитными средствами от LeTech, Chemical Guys, Nanoskin, </span><span style="line-height: 1.5em;">чтобы меньше притягивали пыль и меньше пачкались. Причем они подбираются </span><span style="line-height: 1.5em;">индивидуально для каждого материала: пластика, коврового покрытия, кожи, алькантары и др. </span></p>
-
-                            <p><span style="line-height: 1.5em;"><span style="line-height: 1.5em;">Ведь каким бы чистоплотным не был хозяин, уберечь авто от загрязнений практически </span><span style="line-height: 1.5em;">невозможно. Песок, снег с солью, дорожными реагентами, пролитый кофе и другие напитки, </span><span style="line-height: 1.5em;">крошки, волосы, шерсть, ворс от одежды, пыль и грязь, проникающие в салон авто через </span><span style="line-height: 1.5em;">воздуховоды, открытые окна и двери... Наши защитные составы позволят забыть обо всех этих </span><span style="line-height: 1.5em;">неприятностях, надолго продлив вам ощущение свежести и чистоты салона.</span><span style="line-height: 1.5em;"> </span></span><span style="font-size: 1.5em; line-height: 1.5em;"><br /></span></p>
-
-                            <p><strong><span style="line-height: 1.5em;"><span style="line-height: 1.5em;">Сколько стоит химчистка салона авто? </span></span></strong></p>
-
-                            <p>Помните: качественная и безопасная <span style="color:#3C75B3; line-height: 1.5em;"><strong>химчистка салона автомобиля</strong> </span><span style="line-height: 1.5em;">не может стоить дешево. Это <span style="line-height: 1.5em;">трудоемкий процесс, требующий большого опыта, времени, дорогостоящих препаратов и работы </span><span style="line-height: 1.5em;">профессионального оборудования. Поэтому введя в интернете запросы " химчистка салона </span><span style="line-height: 1.5em;">автомобиля" или "химчистка автомобиля цена", не спешите ехать туда, где цена колеблется в </span><span style="line-height: 1.5em;">пределах 5 тысяч рублей. Именно там, наверняка, ваш салон обработают ядовитой химией за три </span><span style="line-height: 1.5em;">копейки. Хорошая химчистка автомобиля не может стоить менее 8 тысяч рублей. Далее цены </span><span style="line-height: 1.5em;">колеблются в зависимости от типа кузова и степени загрязнения. </span><span style="line-height: 1.5em;">Не экономьте на себе и здоровье своих близких. Позвольте себе лучшее. Мы обещаем - Вам </span><span style="line-height: 1.5em;">понравится! И вы станете нашим клиентом на долгие годы!</span><span style="line-height: 1.5em;"> </span></span></p>
-
-                            <h3>Стоимость химчистки салона</h3>
+                  
 
                             <table class="pricelist-tbl">
 
@@ -844,13 +816,29 @@
 
                                     <tr>
 
-                                        <th><span style="font-size: 12px; font-weight: normal; line-height: 18px;">Химчистка салона</span></th>
+                                        <th rowspan="2">Kompletna Nano zaštita interijera - koža, tekstil, drvo, plastika</th>
 
-                                        <th><span style="font-size: 12px; font-weight: normal; line-height: 18px;">C класс</span></th>
+                                        <th>Golf  Class</th>
 
-                                        <th><span style="font-size: 12px; font-weight: normal; line-height: 18px;">E класс</span></th>
+                                        <th>C Class</th>
 
-                                        <th><span style="font-size: 12px; font-weight: normal; line-height: 18px;">S класс и внедорожники</span></th>
+                                        <th>E Class</th>
+                                        
+                                        <th>S class i terenci</th>
+
+                                    </tr>
+                                    
+                                        <tr>
+
+                                       
+
+                                        <th>(Golf, Audi A3, BMW 1, Mercedes A…)</th>
+
+                                        <th>(Mercedes C, Audi A4, BMW3…)</th>
+
+                                        <th>(Mercedes E, BMW 5, Audi A6…</th>
+                                        
+                                        <th>(Mercedes S class, Audi A8, BMW 7, Range Rover…)</th>
 
                                     </tr>
 
@@ -860,13 +848,31 @@
 
                                     <tr>
 
-                                        <td style="text-align: center;">Салон полностью</td>
+                                        <td style="text-align: center;">Cijena bez PDV</td>
 
-                                        <td>от 12 000 руб.</td>
+                                        <td>od 700 kn</td>
 
-                                        <td>от 15 000 руб.</td>
+                                        <td>od 800 kn</td>
 
-                                        <td>от 18 000 руб.</td>
+                                        <td>od 900 kn</td>
+                                        
+                                        <td> od 1.100 kn</td>
+
+                                    </tr>
+                                    
+                                    
+                                    
+                                          <tr>
+
+                                        <td style="text-align: center;">Cijena sa PDV</td>
+
+                                        <td>od 875 kn</td>
+
+                                        <td>od 1.000 kn</td>
+
+                                        <td>od 1.125 kn</td>
+                                        
+                                        <td>od 1.375 kn</td>
 
                                     </tr>
 
@@ -918,7 +924,7 @@
                                     <div class="form-item">
                                         <label class="form-label">Ime :</label>
                                         <div class="controls">
-                                            <input class="form-text" type="text" name="name" placeholder="ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
+                                            <input class="form-text" type="text" name="name" placeholder="Ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
 <?php echo "<p class='errorForm'>$errName</p>"; ?>
                                         </div>
                                     </div>

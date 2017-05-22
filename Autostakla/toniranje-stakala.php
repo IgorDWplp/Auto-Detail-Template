@@ -152,10 +152,10 @@
 <head><meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="keywords" content="" />
-  <meta name="description" content="">
+  <meta name="keywords" content="zaštita farova, folija za auta, SunTek, poliranje farova, zaštita stakla, popravak stakla, poliranje auta , carglass, ogrebotina laka, uklanjanje ogrebotina, ogrebotina ključem, auto detailing, detailing, njega vozila, zaštita vozila, poliranje vozila" />
+  <meta name="description" content="Zatamnjivanje autostakla, zaštita farova od oštećenja folijom, poliranje farova automobila, poliranje vozila, zaštitni nano premazi">
   <meta name="robots" content="all ">
-  <title>Toniranje stakala</title>
+   <title>Detailing Star | Profesionalna Njega Vozila | Zatamnjivanje stakala</title>
 
   
   
@@ -485,7 +485,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display:none;">
 
                                             <a href="../Eksterijer/zastita-folijom-SunTek.php">Zaštita folijom SunTek</a>       
 
@@ -497,7 +497,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display:none;">
 
                                             <a href="../Eksterijer/uklanjanje-ogrebotina.php">Uklanjanje ogrebotina</a>
 
@@ -509,7 +509,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display:none;">
 
                                             <a href="../Eksterijer/lakiranje-auta.php">Lakiranje auta</a>
 
@@ -573,7 +573,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display:none;">
 
                                             <a href="../Interijer/aromatizacija-interijera-auta.php">Aromatizacija interijera auta</a>
 
@@ -647,7 +647,7 @@
 
 
 
-                                        <li class="main-nav-item">
+                                        <li class="main-nav-item" style="display:none;">
 
                                             <a href="../Autostakla/anti-termalna-zastita-stakla-folijom-SunTek.php">Anti termalna zaštita stakla folijom SunTek</a>
 
@@ -772,11 +772,11 @@
   
   
     <li itemscope="itemscope" class="B_lastCrumb B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb" >
-      <a class="B_crumb" itemprop="url" rel="Салон" href="/services/salon/"><span itemprop="title">Toniranje stakala</span></a>
+      <a class="B_crumb" itemprop="url" rel="Салон" href=""><span itemprop="title">Zatamnjivanje stakala</span></a>
   </li>
  
     <li class="B_lastCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
-    <li itemscope="itemscope" class="B_currentCrumb" itemtype="http://data-vocabulary.org/Breadcrumb"><p style="visibility: hidden;">Ремонт и восстановление кожи Advance Leather</p></li>
+  
 
   
  
@@ -791,7 +791,7 @@
 <div class="wrap-h1">
  <div class="inner">
         <h1>
-          <span>Toniranje stakala</span>
+          <span>Zatamnjivanje stakala</span>
         </h1>
  </div>
 </div>
@@ -802,63 +802,104 @@
 </div>        
                          
                          
-                       <article style="display: none;">
+ <article>
                            
-			<p style="text-align: center;"><img src="../assets/template/images/tonir.jpg" alt="" width="560" height="401" /></p>
-<p>Автомобиль с темными стеклами стал трендом более десяти лет назад. Еще тогда можно было самостоятельно купить специальную пленку и затонировать ею стекла. Тем не менее, работу дилетанта всегда можно было отличить от творения мастера. Кто хоть раз пытался затонировать стекло, знает, насколько сложна данная процедура. Необходимо иметь опыт, знать технологию и владеть всеми нужными инструментами.</p>
-<p>Сегодня <span style="color:#3C75B3; line-height: 1.5em;"><strong>тонирование автомобильных стекол</strong></span><span style="line-height: 1.5em;"> – это одна из самых популярных услуг в любом сервис-центре. Помимо эстетической составляющей, темные окна позволяют:</span></p>
-<ul>
-<li>предотвратить выгорание обивки салона,</li>
-<li>спрятать от чужих глаз содержимое салона,</li>
-<li>защитить свое зрение от яркого солнца и слепящего света фар.</li>
-</ul>
-<p><strong><span style="color:#3C75B3; line-height: 1.5em;">Тонирование автомобильных стекол </span><span style="line-height: 1.5em;">в домашних условиях</span></strong></p>
-<p>Довольно часто люди пытаются самостоятельно обклеить пленкой окна своей машины. Но, как правило, при этом остаются пузыри, мелкие трещины или разводы. Кроме того, у вас может уйти не один рулон пленки пока вы не получите идеальный результат. Экономия получается сомнительная.</p>
-<p>В Центре профессионального детейлинга <span style="color:#3C75B3; line-height: 1.5em;"><strong>Advance Star</strong> </span><span style="line-height: 1.5em;"> тонирование стекол авто проводится быстро, качественно и недорого. В зависимости от пожеланий клиента, в индивидуальном порядке подбирается тип пленки. Тонировка стекол автомобиля может иметь различный оттенок и несколько видов перехода от темного к светлому. В настоящее время можно покрыть пленкой абсолютно все окна в машине. Даже ветровое стекло тонируют, согласно действующим нормам. В итоге вы получаете идеально затемненный салон и стильный дизайн машины.</span></p>
-<p><strong>Какой бывает тонировка автомобиля</strong></p>
-<p>Существует несколько методов затемнения окон в машине. Сегодня все чаще используют пленочный, но параллельно применяют и напыление. Для этого каждое отдельное окно необходимо демонтировать. Тогда как профессиональное тонирование стекол проводится на месте, а использовать транспорт можно сразу же после окончания процедуры.</p>
-<p>В Центре профессионального детейлинга <span style="color:#3C75B3; line-height: 1.5em;"><strong>Advance Star</strong> </span><span style="line-height: 1.5em;"> вы сможете самостоятельно подобрать оттенок пленки и даже выбрать предпочитаемы бренд. Кроме того, мы предлагаем профессиональный подбор пленки, исходя из ваших пожеланий, марки автомобиля и его особенностей.</span></p>
-<p>Считается, что автомобильная тонировка не только позволяет затемнить окна, но и сделать их более прочными, стойкими к появлению царапин и сколов. Кроме того, наличие пленки создает дополнительную звукоизоляцию внутри салона. Именно поэтому неразумно считать, что тонированные стекла нужны лишь для создания определенного имиджа автомобиля. При этом нужно понимать, что стекла в итоге не должны получиться совершенно черными, не пропускающими свет. Такой вид тонировки запрещен правилами дорожного движения. В норме ветровое стекло должно пропускать не меньше 70 % света, а боковые передние – от 75 % и больше.</p>
-<p>В нашем центре тонировка выполняется согласно всем действующим правилам, по самым современным технологиям. Качественная пленка не удешевляет внешний вид автомобиля, прочно держится на стеклах и выполняет все свои функции. У нас стоимость тонировки стекол установлена на доступном уровне, а конечный результат превосходит самые смелые ожидания заказчика.</p>
-<h3>Стоимость тонирования стекол</h3>
-<table class="pricelist-tbl">
-<thead>
-<tr><th>Тонирование стекол</th><th>C класс</th><th>E класс</th><th>S класс и внедорожники</th></tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">Задняя полусфера</td>
-<td>от 6 500 руб.</td>
-<td>от 8 000 руб.</td>
-<td>от 9 000 руб.</td>
-</tr>
-<tr>
-<td style="text-align: center;">Боковое стекло</td>
-<td>от 1 200 руб.</td>
-<td>от 1 400 руб.</td>
-<td>от 1 600 руб.</td>
-</tr>
-<tr>
-<td style="text-align: center;">Форточка</td>
-<td>от 1000 руб.</td>
-<td>от 1100 руб.</td>
-<td>от 1200 руб.</td>
-</tr>
-<tr>
-<td style="text-align: center;">Лобовое стекло</td>
-<td>от 5 000 руб.</td>
-<td>от 5 500 руб.</td>
-<td>от 6 000 руб.</td>
-</tr>
-<tr>
-<td style="text-align: center;">Заднее стекло</td>
-<td>от 4 000 руб.</td>
-<td>от 4 500 руб.</td>
-<td>от 5 000 руб.</td>
-</tr>
-</tbody>
-</table>
 
+<p><strong><span style="color: #3C75B3;">U „Detailing Star“ centru brzo, učinkovito i jeftino ćemo nijansirati stakla vašeg automobila. </span></strong></p>
+
+
+<p class="Padding_text_naslov">
+U našem centru, toniranje se provodi u skladu sa svim važećim propisima i najmodernijim tehnologijama. 
+Folija visoke kvalitete, poboljšava izgled vašeg automobila, dobro se drži na staklima i ispunjava sve željene fukncije.
+</p>
+
+
+        <table class="pricelist-tbl">
+                              <thead>
+                                 <tr>
+                                    <th rowspan="2">Zatamnjivanje autostakla zaštitnim folijama - zadnje staklo </th>
+                                    <th>Golf  Class </th>
+                                    <th>C Class </th>
+                                    <th>E Class </th>
+                                    <th>S class i terenci</th>
+                                 </tr>
+								 
+								       <tr>
+                                   
+                                  <th>(Golf, Audi A3, BMW 1, Mercedes A…)</th>
+                                    <th>(Mercedes C, Audi A4, BMW3…)</th>
+                                    <th>(Mercedes E, BMW 5, Audi A6…</th>
+                                    <th>(Mercedes S class, Audi A8, BMW 7, Range Rover…)</th>
+                                 </tr>
+								 
+								 
+                              </thead>
+                              <tbody>
+                                 <tr>
+                                    <td style="text-align: center;">Cijena bez PDV</td>
+                                    <td> 720 kn</td>
+                                    <td> 720 kn</td>
+                                    <td>od 800 kn</td>
+                                    <td>od 960 kn</td>
+                                 </tr>
+                                 
+                                  <tr>
+                                    <td style="text-align: center;">Cijena sa PDV</td>
+                                    <td>900 kn</td>
+                                    <td>900 kn</td>
+                                    <td> od 1.000 kn</td>
+                                    <td>od 1.200 kn</td>
+                                 </tr>
+                                 
+                                 
+                              </tbody>
+                           </table>
+
+					<br/>
+<br/>					
+						   
+						   
+						   
+						    <table class="pricelist-tbl">
+                              <thead>
+                                 <tr>
+                                    <th rowspan="2" style="width: 273px;">Zatamnjivanje autostakla zaštitnim folijama - zadnje staklo + 2 bočna stakla odozada </th>
+                                    <th>Golf  Class </th>
+                                    <th>C Class </th>
+                                    <th>E Class </th>
+                                    <th>S class i terenci</th>
+                                 </tr>
+								 
+								       <tr>
+                                   
+                                  <th>(Golf, Audi A3, BMW 1, Mercedes A…)</th>
+                                    <th>(Mercedes C, Audi A4, BMW3…)</th>
+                                    <th>(Mercedes E, BMW 5, Audi A6…</th>
+                                    <th>(Mercedes S class, Audi A8, BMW 7, Range Rover…)</th>
+                                 </tr>
+								 
+								 
+                              </thead>
+                              <tbody>
+                                 <tr>
+                                    <td style="text-align: center;">Cijena bez PDV</td>
+                                    <td>1.040 kn</td>
+                                    <td>1.040 kn</td>
+                                    <td>1.120 kn</td>
+                                     <td>od 1.360 kn</td>
+                                 </tr>
+                                 
+                                  <tr>
+                                    <td style="text-align: center;">Cijena sa PDV</td>
+                                    <td>1.300 kn</td>
+                                     <td>1.300 kn</td>
+                                    <td>1.400 kn</td>
+                                    <td>od 1700 kn</td>
+                                 </tr>
+                                 
+                                 
+                              </tbody>
+                           </table>
 
 
 
@@ -893,14 +934,10 @@
                                     <div class="form-item">
                                         <label class="form-label">Ime :</label>
                                         <div class="controls">
-                                            <input class="form-text" type="text" name="name" placeholder="ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
+                                            <input class="form-text" type="text" name="name" placeholder="Ime" value="<?php echo htmlspecialchars($_POST['name']); ?>" oninvalid="this.setCustomValidity('Molimo Vas uneste svoje ime');">
 <?php echo "<p class='errorForm'>$errName</p>"; ?>
                                         </div>
                                     </div>
-
-
-
-
 
 
                                     <div class="form-item">
